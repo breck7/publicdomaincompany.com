@@ -91,3 +91,9 @@ This person will be responsible for our legal
 strategy both offensive and defensive in the fight
 for the public domain.
 
+### Your Dream Job
+
+If you are committed to the public domain but don't
+fit a role we are currently hiring for, you can
+send a short pull request explaining your position
+here: https://github.com/breck7/publicdomaincompany
