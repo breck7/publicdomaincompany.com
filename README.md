@@ -70,6 +70,11 @@ used to run our organization. These languages will
 be used by us for corporate documents, account, tax
 compliance, HR, and so forth.
 
+### VP, Business Development
+
+This person will source and acquire public domain
+projects and teams.
+
 ### Comic Artists
 
 These people will produce public domain comics. These
@@ -104,5 +109,5 @@ for the public domain.
 If you are committed to the public domain but don't
 fit a role we are currently hiring for, you can
 send a short pull request explaining your position
-here: <a href="https://github.com/breck7/publicdomaincompany">
-https://github.com/breck7/publicdomaincompany</a>
+here: <a href="https://github.com/publicdomaincompany/publicdomaincompany.com">
+https://github.com/publicdomaincompany/publicdomaincompany.com</a>
