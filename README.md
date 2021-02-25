@@ -37,7 +37,9 @@ For now ticket sales.
 
 ### What are our main publications?
 
-We will publicize our list of products over time.
+We will publicize our list of products over time. Our
+current databases, websites, and software have over
+50,000 monthly active users.
 
 ## Jobs
 
