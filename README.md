@@ -41,7 +41,8 @@ We will publicize our list of products over time.
 
 ## Jobs
 
-We are looking to fill the following positions.
+We are looking to fill the following positions. All jobs
+are remote. We are based in Honolulu.
 
 To apply, email breck7@gmail.com explaining why you want
 to work for the public domain and what you've
