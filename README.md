@@ -37,18 +37,24 @@ For now ticket sales.
 
 ### What are our main publications?
 
-We will publicize our list of products over time. Our
-current databases, websites, and software have over
-50,000 monthly active users.
+<a href="https://github.com/treenotation/dumbdown/blob/master/scroll/readme.md">Scroll</a>,
+<a href="https://github.com/treenotation/dumbdown">Dumbdown</a>,
+<a href="https://github.com/treenotation/jtree">JTree</a>, and <a href="https://github.com/treenotation/ohayo">
+Ohayo</a> are all in the portfolio.
+
+Our entire portfolio is a company secret. Our current databases,
+websites, and software have over 50,000 monthly active
+users.
+
 
 ## Jobs
 
 We are looking to fill the following positions. All jobs
 are remote. We are based in Honolulu.
 
-To apply, email breck7@gmail.com explaining why you want
-to work for the public domain and what you've
-built in the past.
+To apply, email <a href="mailto:breck7@gmail.com">breck7@gmail.com</a>
+explaining why you want to work for the public domain
+and what you've built in the past.
 
 ### Community Manager
 
@@ -98,4 +104,5 @@ for the public domain.
 If you are committed to the public domain but don't
 fit a role we are currently hiring for, you can
 send a short pull request explaining your position
-here: https://github.com/breck7/publicdomaincompany
+here: <a href="https://github.com/breck7/publicdomaincompany">
+https://github.com/breck7/publicdomaincompany</a>
