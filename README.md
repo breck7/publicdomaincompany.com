@@ -18,8 +18,7 @@
                         -                               
 
 The world's oldest surviving publication is a cave
-painting of a bull. Let's hope the original outlasts
-this ASCII recreation.
+painting of a bull. This is a recreation.
 
 ## Questions and Answers
 
@@ -44,7 +43,7 @@ We will publicize our list of products over time.
 
 We are looking to fill the following positions.
 
-Email breck7@gmail.com explaining why you want
+To apply, email breck7@gmail.com explaining why you want
 to work for the public domain and what you've
 built in the past.
 
@@ -64,7 +63,7 @@ compliance, HR, and so forth.
 
 ### Comic Artists
 
-These people will product public domain comics. These
+These people will produce public domain comics. These
 illustrations will be used for products throughout
 our company.
 
@@ -88,6 +87,6 @@ company.
 ### Chief Legal Officer
 
 This person will be responsible for our legal
-strategy both offensive and defense in the fight
+strategy both offensive and defensive in the fight
 for the public domain.
 
