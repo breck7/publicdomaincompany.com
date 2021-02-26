@@ -1,4 +1,4 @@
-# The Public Domain Publishing Company
+<img src="logoV1.png" />
 
                                                      
                                       /-  --------   
