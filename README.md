@@ -37,10 +37,9 @@ For now ticket sales.
 
 ### What are our main publications?
 
-<a href="https://github.com/treenotation/dumbdown/blob/master/scroll/readme.md">Scroll</a>,
-<a href="https://github.com/treenotation/dumbdown">Dumbdown</a>,
-<a href="https://github.com/treenotation/jtree">JTree</a>, and <a href="https://github.com/treenotation/ohayo">
-Ohayo</a> are all in the portfolio.
+Over 10 different products are in the portfolio including
+<a href="https://github.com/treenotation/scroll">Scroll</a>,
+and <a href="https://jtree.treenotation.org/designer/">Tree Language Designer</a>.
 
 Our entire portfolio is a company secret. Our current databases,
 websites, and software have over 50,000 monthly active
