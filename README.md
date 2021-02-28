@@ -24,8 +24,8 @@ painting of a bull. This is a recreation.
 
 ### What do we do and what is our mission?
 
-We are a media startup that publishes databases,
-websites, and software to the public domain.
+We are a media startup that publishes software,
+databases, and other content to the public domain.
 
 Our mission is to become the world's top media
 conglomerate so that every child on earth has
@@ -38,8 +38,7 @@ For now ticket sales.
 ### What are our main publications?
 
 Over 10 different products are in the portfolio including
-<a href="https://github.com/treenotation/scroll">Scroll</a>,
-and <a href="https://jtree.treenotation.org/designer/">Tree Language Designer</a>.
+<a href="https://github.com/publicdomaincompany/scroll">Scroll</a>.
 
 Our entire portfolio is a company secret. Our current databases,
 websites, and software have over 50,000 monthly active
