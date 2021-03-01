@@ -1,5 +1,9 @@
 <img src="logoV1.png" />
 
+<a href="https://github.com/publicdomaincompany/publicdomaincompany.com">
+edit this page</a>
+
+
                                                      
                                       /-  --------   
                                    /--           |   
@@ -24,8 +28,8 @@ painting of a bull. This is a recreation.
 
 ### What do we do and what is our mission?
 
-We are a media startup that publishes software,
-databases, and other content to the public domain.
+We build public domain software, databases and online
+communities.
 
 Our mission is to become the world's top media
 conglomerate so that every child on earth has
