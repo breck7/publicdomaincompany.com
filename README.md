@@ -78,6 +78,14 @@ compliance, HR, and so forth.
 This person will source and acquire public domain
 projects and teams.
 
+### Public Domain Consultants
+
+Do you do stuff at one of those McKenzie firms? Would
+you like to start a new line of business helping big
+companies switch their creative strategy to a public
+domain one? Apply now! We promise we won't tell your
+MacKensey boss that you are looking to jump ship.
+
 ### Comic Artists
 
 These people will produce public domain comics. These
