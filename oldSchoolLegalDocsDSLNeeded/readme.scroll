@@ -1,0 +1,23 @@
+title Public Domain Publishing, Inc. Legal Documents
+
+paragraph
+ Shout out to Stripe Atlas for making this 100x easier
+ than it used to be:
+
+ https://stripe.com/atlas
+
+ It will be 100x better in the future when we have
+ computable plaintext DSLs for docs like this, but
+ they have moved mountains to get us this far.
+
+paragraph
+ This folder contains every legal document
+ we have been a party to, to the best of our
+ knowledge.
+
+ A tiny bit of information is redacted with
+ black rectangles.
+
+paragraph
+ IANAL, but if you are and spot a problem, let us
+ know so we can commit a fix and push.
