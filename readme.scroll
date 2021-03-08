@@ -1,7 +1,9 @@
-<img src="logoV1.png" />
+paragraph
+ <img src="logoV1.png" />
 
-<a href="https://github.com/publicdomaincompany/publicdomaincompany.com">
-edit this page</a>
+paragraph
+ <a href="https://github.com/publicdomaincompany/publicdomaincompany.com">
+ edit this page</a>
 
 
 code
@@ -27,38 +29,46 @@ paragraph
 
 title2 Questions and Answers
 
-What do we do and what is our mission?
+title3 What do we do and what is our mission?
 
-  We build public domain software, databases and online
-  communities.
+paragraph
+ We build public domain software, databases and online
+ communities.
 
-  Our mission is to become the world's top media
-  conglomerate so that every child on earth has
-  access to the world's best information.
+paragraph
+ Our mission is to become the world's top media
+ conglomerate so that every child on earth has
+ access to the world's best information.
 
-How do we make money?
+title3 How do we make money?
 
-  For now ticket sales.
+paragraph
+ We sell commits to public domain projects.
 
-What are our main publications?
+title3 What are our main publications?
 
-  Over 10 different products are in the portfolio including
-  <a
-  href="https://github.com/publicdomaincompany/scroll">Scroll</a>.
+paragraph
+ Over 10 different products are in the portfolio including
+ <a
+ href="https://scroll.publicdomaincompany.com">Scroll</a>.
 
-  Our entire portfolio is a company secret. Our current
-  databases, websites, and software have over 50,000 monthly
-  active users.
+paragraph
+ Our entire portfolio is a company secret. Our current
+ databases, websites, and software have over 50,000 monthly
+ active users.
 
-title2
+title2 Build for Us
 
 paragraph
  We are looking to fill the following positions. All
- jobs are remote. We are based in Honolulu. Open to full
+ jobs are remote.
+
+paragraph
+ We are based in Honolulu. Open to full
  time, part time, and contract work.
 
 paragraph
- To apply, email <a href="mailto:breck7@gmail.com">breck7@gmail.com</a>
+ To apply, email <a href="mailto:apply@publicdomaincompany.com">apply@publicdomaincompany.com</a>
  explaining why you want to work for the public domain
  and what you've built in the past.
 
@@ -69,7 +79,7 @@ paragraph
  slacks, virtual conferences, Twitters, email groups,
  and so forth.
 
-title3 Chief Financial Programmer
+title3 Financial Programmer
 
 paragraph
  This person will be a talented software engineer
@@ -78,7 +88,7 @@ paragraph
  be used by us for corporate documents, account, tax
  compliance, HR, and so forth.
 
-title3 VP, Business Development
+title3 Business Development
 
 paragraph
  This person will source and acquire public domain

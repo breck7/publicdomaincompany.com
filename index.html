@@ -7,6 +7,8 @@
  
  Generally you don't want to edit it by hand.
 
+ Scroll v6.0.0
+
 -->
 <head>
  <meta charset="utf-8"></meta>
@@ -31,27 +33,15 @@ html,body,div,span,h1,h2,h3,h4,h5,h6,p {
 .scrollDescription {
   padding: 3px;
 }
-.scrollLinks {
-  text-align: left;
-  position: absolute;
-  left: 25px;
-  top: 3px;
-}
-.scrollLinks a {
-  text-decoration: none;
-  color: rgba(0,0,0,0.8);
-}
-.scrollLinks a:hover {
-  color: rgba(0,0,0,1);
-}
 .scrollPageContainer {
   border-top: 1px solid rgb(204,204,204);
   border-bottom: 1px solid rgb(204,204,204);
   margin-top: 8px;
   margin-bottom: 8px;
 }
-.scrollTitle {
+.scrollTitle a {
   font-family: Exchange,Georgia,serif;
+  text-decoration: none;
   color: #000;
 }
 .scrollIcons {
@@ -93,11 +83,14 @@ html,body,div,span,h1,h2,h3,h4,h5,h6,p {
   color: #000;
   text-decoration: none;
 }
+.scrollHasMultipleArticles .scrollArticleCell {
+  break-inside: avoid;
+}
 .scrollArticleCell {
   border-bottom: 1px solid rgb(204,204,204);
   width: 35ch;
   padding: 1ch;
-  break-inside: avoid;
+  break-inside: avoid-page;
   overflow: hidden;
   text-align: justify;
   margin: auto;
@@ -148,17 +141,26 @@ html,body,div,span,h1,h2,h3,h4,h5,h6,p {
    <a href="https://github.com/publicdomaincompany"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>GitHub icon</title><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg></a>
 </div>
 </div>
- <h1 class="scrollChrome scrollTitle">The Public Domain Publishing Company</h1>
+ <h1 class="scrollChrome scrollTitle">
+  <a href="./">The Public Domain Publishing Company</a>
+</h1>
  <div class="scrollChrome scrollDescription">Our corporate homepage</div>
- <div class="scrollChrome scrollLinks">
-  <a href="#about">about</a>
-</div>
  <div class="scrollPageContainer">
   <div class="scrollPage">
-   <div class="scrollArticleCell"><p><img src="logoV1.png" /></p>
+   <div class="scrollArticleCell"><p>
+ <img src="logoV1.png" />
 
-<p><a href="https://github.com/publicdomaincompany/publicdomaincompany.com"></p>
-<p>edit this page</a></p>
+ 
+</p>
+
+<p>
+ <a href="https://github.com/publicdomaincompany/publicdomaincompany.com">
+
+ 
+ edit this page</a>
+
+ 
+</p>
 
 
 <div class="scrollArticleCode">
@@ -180,24 +182,76 @@ html,body,div,span,h1,h2,h3,h4,h5,h6,p {
 
 <h2>Questions and Answers</h2>
 
-<p>What do we do and what is our mission?</p>
+<h3>What do we do and what is our mission?</h3>
 
+<p>
+ We build public domain software, databases and online
 
+ 
+ communities.
 
-<p>How do we make money?</p>
+ 
+</p>
 
+<p>
+ Our mission is to become the world's top media
 
-<p>What are our main publications?</p>
+ 
+ conglomerate so that every child on earth has
 
+ 
+ access to the world's best information.
 
+ 
+</p>
 
-<h2></h2>
+<h3>How do we make money?</h3>
+
+<p>
+ We sell commits to public domain projects.
+
+ 
+</p>
+
+<h3>What are our main publications?</h3>
+
+<p>
+ Over 10 different products are in the portfolio including
+
+ 
+ <a
+
+ 
+ href="https://scroll.publicdomaincompany.com">Scroll</a>.
+
+ 
+</p>
+
+<p>
+ Our entire portfolio is a company secret. Our current
+
+ 
+ databases, websites, and software have over 50,000 monthly
+
+ 
+ active users.
+
+ 
+</p>
+
+<h2>Build for Us</h2>
 
 <p>
  We are looking to fill the following positions. All
 
  
- jobs are remote. We are based in Honolulu. Open to full
+ jobs are remote.
+
+ 
+</p>
+
+<p>
+ We are based in Honolulu. Open to full
 
  
  time, part time, and contract work.
@@ -206,7 +260,7 @@ html,body,div,span,h1,h2,h3,h4,h5,h6,p {
 </p>
 
 <p>
- To apply, email <a href="mailto:breck7@gmail.com">breck7@gmail.com</a>
+ To apply, email <a href="mailto:apply@publicdomaincompany.com">apply@publicdomaincompany.com</a>
 
  
  explaining why you want to work for the public domain
@@ -231,7 +285,7 @@ html,body,div,span,h1,h2,h3,h4,h5,h6,p {
  
 </p>
 
-<h3>Chief Financial Programmer</h3>
+<h3>Financial Programmer</h3>
 
 <p>
  This person will be a talented software engineer
@@ -251,7 +305,7 @@ html,body,div,span,h1,h2,h3,h4,h5,h6,p {
  
 </p>
 
-<h3>VP, Business Development</h3>
+<h3>Business Development</h3>
 
 <p>
  This person will source and acquire public domain
@@ -393,41 +447,6 @@ html,body,div,span,h1,h2,h3,h4,h5,h6,p {
 
  
  https://github.com/publicdomaincompany/publicdomaincompany.com</a>
-
- 
-</p>
-<p class="scrollArticleSourceLink"><a href="https://github.com/publicdomaincompany/publicdomaincompany.com/readme.scroll">Article source</a></p></div>
-   <div class="scrollArticleCell"><h1 id="public-domain-publishing-inc.-legal-documents"><a href="#public-domain-publishing-inc.-legal-documents">Public Domain Publishing, Inc. Legal Documents</a></h1>
-
-<p>
- Shout out to Stripe Atlas for making this 100x easier
-
- 
- than it used to be:
-
- 
-</p>
-
-
-
-<p>
- This folder contains every legal document
-
- 
- we have been a party to, to the best of our
-
- 
- knowledge.
-
- 
-</p>
-
-
-<p>
- IANAL, but if you are and spot a problem, let us
-
- 
- know so we can commit a fix and push.
 
  
 </p>
