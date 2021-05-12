@@ -7,49 +7,48 @@
  
  Generally you don't want to edit it by hand.
 
- Scroll v6.4.0
+ Scroll v11.1.0
 
 -->
 <html lang="en-US">
  <head>
   <meta charset="utf-8"></meta>
   <title>The Public Domain Publishing Company</title>
-  <style>html {
+  <style>html,body,div,span,h1,h2,h3,h4,h5,h6,p {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  vertical-align: baseline;
+}
+html {
   background-color: rgb(244,244,244);
   font-family: Exchange,Georgia,serif;
   color: #000;
   font-size: 10pt;
   hyphens: auto;
 }
-html,body,div,span,h1,h2,h3,h4,h5,h6,p {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  vertical-align: baseline;
-}
-.scrollChrome {
+.scrollHeader,.scrollFooter {
   text-align: center;
-  font-family: Retina,Arial,Helvetica,sans-serif;
-  color: #333;
-}
-.scrollDescription {
-  padding: 3px;
 }
 .scrollTitle a {
-  font-family: Exchange,Georgia,serif;
   text-decoration: none;
   color: #000;
 }
-.scrollIcons {
-  padding-top: 3px;
-}
-.scrollIcons svg {
+.scrollSocialMediaIcons svg {
   width: 30px;
   fill: rgba(204,204,204, .5);
   margin-left: 15px;
 }
-.scrollIcons svg:hover {
+.scrollSocialMediaIcons svg:hover {
   fill: #333;
+}
+.scrollCommunityLink {
+  display: block;
+  font-family: Verdana;
+  font-weight: 100;
+  margin: .5em;
+  text-decoration: none;
+  color: rgba(204,204,204, .5);
 }
 .scrollTopRightBar {
   text-align: right;
@@ -70,7 +69,6 @@ html,body,div,span,h1,h2,h3,h4,h5,h6,p {
   margin-bottom: 8px;
 }
 .scrollArticleDate {
-  text-align: center;
   font-style: italic;
   font-size: 80%;
   display: inline;
@@ -104,7 +102,7 @@ html,body,div,span,h1,h2,h3,h4,h5,h6,p {
   margin-bottom: .5em;
 }
 .scrollArticleCell ul,.scrollArticleCell ol {
-  padding: 1em;
+  padding: .5em;
   margin: 0;
 }
 .scrollArticleCell p {
@@ -118,20 +116,25 @@ html,body,div,span,h1,h2,h3,h4,h5,h6,p {
 .scrollArticleCell img {
   max-width: 35ch;
 }
-.scrollArticleCell .scrollArticleCode,.scrollArticleCell table {
-  margin-top: 15px;
-  margin-bottom: 15px;
-  background-color: rgb(234,234,234);
-  padding: 1em;
-  overflow: auto;
-  font-size: 80%;
+.scrollArticleCell .scrollCodeBlock,.scrollArticleCell table,.scrollArticleCell blockquote {
+  display: block;
+  margin: .5em 0;
+  padding: .5em;
+  background: rgba(204,204,204, .5);
   break-inside: avoid;
 }
-.scrollArticleCell .scrollArticleCode,.scrollArticleCell table code {
-  margin: 0;
-  display: block;
+.scrollArticleCell .scrollCodeBlock,.scrollArticleCell table {
+  overflow: auto;
+  font-size: 80%;
+  hyphens: none;
+}
+.scrollArticleCell .scrollCodeBlock {
   white-space: pre;
-  break-inside: avoid;
+  border-left: .5em solid rgba(204,204,204, .8);
+}
+.scrollArticleCell blockquote {
+  white-space: pre-line;
+  border-left: .5em solid rgba(204,204,204, .8);
 }
 .scrollArticleCell h1 {
   margin-bottom: .25em;
@@ -143,358 +146,177 @@ html,body,div,span,h1,h2,h3,h4,h5,h6,p {
 .scrollArticleCell h1,.scrollArticleCell h2,.scrollArticleCell h3,.scrollArticleCell h4,.scrollArticleCell h5,.scrollArticleCell h6 {
   text-align: center;
 }
-.scrollArticleCell h2,.scrollArticleCell h3,.scrollArticleCell h4,.scrollArticleCell h5,.scrollArticleCell h6 {
+.scrollArticleCell h2,.scrollArticleCell h3,.scrollArticleCell h4 {
   margin: .2em;
-}
-blockquote {
-  margin: 2ch;
 }
 </style>
 </head>
  <body>
-  <div class="scrollTopRightBar">
-   <div class="scrollChrome scrollIcons">
+  <div class="scrollHeader">
+   <div class="scrollTopRightBar">
+    <div class="scrollSocialMediaIcons">
+     <a href="mailto:breck@publicdomaincompany.com"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Gmail icon</title><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/></svg></a>
+     <a href="https://twitter.com/publicdomainpub"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Twitter icon</title><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg></a>
+     <a href="https://github.com/publicdomaincompany"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>GitHub icon</title><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg></a>
+</div>
+</div>
+   <h1 class="scrollTitle">
+    <a href="./">The Public Domain Publishing Company</a>
+</h1>
+   <div class="scrollDescription">Our corporate homepage</div>
+</div>
+  <div class="scrollPage scrollSingleArticle">
+   <div class="scrollArticleCell"><p><img src="logoV1.png" /></p>
+
+<p><a href="https://github.com/publicdomaincompany/publicdomaincompany.com">
+edit this page</a></p>
+
+
+<code class="scrollCodeBlock">                                   /-  --------   
+                                /--           |   
+                             /--              |   
+        |                 /--                 |   
+        |              /--                    |   
+        |           /--                   /-- \   
+      - |  ---   /--                 /----     \  
+    -/  |      --               /----           \ 
+  -/                        /---                 -
+          --           /----                      
+ |      /   \--     ---                           
+  \    /       \-                                 
+  |   -            \                              
+                    \                             
+                     -                               </code>
+
+<p>40,000 years ago somebody drew a bull in a cave and it's
+still visible today (the image above is a reproduction). We
+too want to make publications that last.</p>
+
+<h3>What do we do and what is our mission?</h3>
+
+<p>We build public domain software, databases and online
+communities. Our most famous non-famous product is
+<a href="https://scroll.publicdomaincompany.com/">Scroll</a>.</p>
+
+<p>Our mission is to become the world's top media
+conglomerate so that every child on earth has
+access to the world's best information.</p>
+
+<h3>How do we make money?</h3>
+
+<p>We sell paper products.</p>
+
+<h2>Build for Us</h2>
+
+<p>We are looking to fill the following positions via full
+time, part time, and/or contract work. Intelligent,
+non-evil AI bots are welcome to apply. All jobs are remote.
+We are a registered Delaware Corporation and registered in
+Hawai'i. Our headquarters are in Honolulu.</p>
+
+<p>To apply, email <a href="mailto:apply@publicdomaincompany.com">apply@publicdomaincompany.com</a>
+explaining why you want to work for the public domain
+and what you've built in the past.</p>
+
+<h3>Community Manager</h3>
+
+<p>This person will build and manage fantastic subreddits,
+slacks, virtual conferences, Twitters, email groups,
+and so forth.</p>
+
+<h3>Financial Programmer</h3>
+
+<p>This person will be a talented software engineer
+who develops novel public domain programming languages
+used to run our organization. These languages will
+be used by us for corporate documents, account, tax
+compliance, HR, and so forth.</p>
+
+<h3>Business Development</h3>
+
+<p>This person will source and acquire public domain
+projects and teams.</p>
+
+<h3>Public Domain Consultants</h3>
+
+<p>Do you do stuff at one of those McKenzie firms? Would
+you like to start a new line of business helping big
+companies switch their creative strategy to a public
+domain one? Apply now! We promise we won't tell your
+MacKensey boss that you are looking to jump ship.</p>
+
+<h3>Comic Artists</h3>
+
+<p>These people will produce public domain comics. These
+illustrations will be used for products throughout
+our company.</p>
+
+<h3>Software Engineers</h3>
+
+<p>These people will develop public domain languages
+and tools to solve a wide range of problems.</p>
+
+<h3>Typesetters</h3>
+
+<p>These people will help ensure our written work
+is presented simply, readably, and beautifully.</p>
+
+<h3>CSV Curators</h3>
+
+<p>These people will build lots and lots of Google Sheets.</p>
+
+<h3>Joke Writers</h3>
+
+<p>These people will produce public domain jokes for our
+products throughout the company. Serious applicants
+only.</p>
+
+<h3>Video Producer</h3>
+
+<p>These people will produce public domain video content
+and screencasts for our products throughout the
+company.</p>
+
+<h3>User Experience Designers</h3>
+
+<p>These people will ensure our users and community have
+a great end-to-end experience in all interactions with
+our products and company.</p>
+
+<h3>Web/Grapher/Brand Designer</h3>
+
+<p>These people will apply their mastery of visual design
+to simplify our products and ensure they are clearly
+communicating our message and value to the world.</p>
+
+<h3>Chief Legal Officer</h3>
+
+<p>This person will be responsible for our legal
+strategy both offensive and defensive in the fight
+for the public domain.</p>
+
+<h3>Your Dream Job</h3>
+
+<p>If you are committed to the public domain but don't
+fit a role we are currently hiring for, you can
+send a short pull request explaining your position
+here: <a href="https://github.com/publicdomaincompany/publicdomaincompany.com">
+https://github.com/publicdomaincompany/publicdomaincompany.com</a></p>
+
+<h3>Mahalo</h3>
+
+<p>Thanks to the web design team at <a
+href="https://www.berkshirehathaway.com/">Berkshire
+Hathaway</a> for help with our corporate homepage design.</p>
+<p class="scrollArticleSourceLink"><a href="https://github.com/publicdomaincompany/publicdomaincompany.com/readme.scroll">Article source</a></p></div>
+</div>
+  <div class="scrollFooter">
+   <div class="scrollSocialMediaIcons">
     <a href="mailto:breck@publicdomaincompany.com"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Gmail icon</title><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/></svg></a>
     <a href="https://twitter.com/publicdomainpub"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Twitter icon</title><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg></a>
     <a href="https://github.com/publicdomaincompany"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>GitHub icon</title><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg></a>
 </div>
-</div>
-  <h1 class="scrollChrome scrollTitle">
-   <a href="./">The Public Domain Publishing Company</a>
-</h1>
-  <div class="scrollChrome scrollDescription">Our corporate homepage</div>
-  <div class="scrollPage scrollSingleArticle">
-   <div class="scrollArticleCell"><p>
- <img src="logoV1.png" />
-
- 
-</p>
-
-<p>
- <a href="https://github.com/publicdomaincompany/publicdomaincompany.com">
-
- 
- edit this page</a>
-
- 
-</p>
-
-
-<div class="scrollArticleCode">
-<code>                                    /-  --------   </code>
-<code>                                 /--           |   </code>
-<code>                              /--              |   </code>
-<code>         |                 /--                 |   </code>
-<code>         |              /--                    |   </code>
-<code>         |           /--                   /-- \   </code>
-<code>       - |  ---   /--                 /----     \  </code>
-<code>     -/  |      --               /----           \ </code>
-<code>   -/                        /---                 -</code>
-<code>           --           /----                      </code>
-<code>  |      /   \--     ---                           </code>
-<code>   \    /       \-                                 </code>
-<code>   |   -            \                              </code>
-<code>                     \                             </code>
-<code>                      -                               </code>
-
-</div>
-
-<p>
- 40,000 years ago somebody drew a bull in a cave and it's
-
- 
- still visible today (the image above is a reproduction). We
-
- 
- too want to make publications that last.
-
- 
-</p>
-
-<h3>What do we do and what is our mission?</h3>
-
-<p>
- We build public domain software, databases and online
-
- 
- communities. Our most famous non-famous product is
-
- 
- <a href="https://scroll.publicdomaincompany.com/">Scroll</a>.
-
- 
-</p>
-
-<p>
- Our mission is to become the world's top media
-
- 
- conglomerate so that every child on earth has
-
- 
- access to the world's best information.
-
- 
-</p>
-
-<h3>How do we make money?</h3>
-
-<p>
- We sell paper products.
-
- 
-</p>
-
-<h2>Build for Us</h2>
-
-<p>
- We are looking to fill the following positions via full
-
- 
- time, part time, and/or contract work. Intelligent,
-
- 
- non-evil AI bots are welcome to apply. All jobs are remote.
-
- 
- We are a registered Delaware Corporation and registered in
-
- 
- Hawai'i. Our headquarters are in Honolulu.
-
- 
-</p>
-
-<p>
- To apply, email <a href="mailto:apply@publicdomaincompany.com">apply@publicdomaincompany.com</a>
-
- 
- explaining why you want to work for the public domain
-
- 
- and what you've built in the past.
-
- 
-</p>
-
-<h3>Community Manager</h3>
-
-<p>
- This person will build and manage fantastic subreddits,
-
- 
- slacks, virtual conferences, Twitters, email groups,
-
- 
- and so forth.
-
- 
-</p>
-
-<h3>Financial Programmer</h3>
-
-<p>
- This person will be a talented software engineer
-
- 
- who develops novel public domain programming languages
-
- 
- used to run our organization. These languages will
-
- 
- be used by us for corporate documents, account, tax
-
- 
- compliance, HR, and so forth.
-
- 
-</p>
-
-<h3>Business Development</h3>
-
-<p>
- This person will source and acquire public domain
-
- 
- projects and teams.
-
- 
-</p>
-
-<h3>Public Domain Consultants</h3>
-
-<p>
- Do you do stuff at one of those McKenzie firms? Would
-
- 
- you like to start a new line of business helping big
-
- 
- companies switch their creative strategy to a public
-
- 
- domain one? Apply now! We promise we won't tell your
-
- 
- MacKensey boss that you are looking to jump ship.
-
- 
-</p>
-
-<h3>Comic Artists</h3>
-
-<p>
- These people will produce public domain comics. These
-
- 
- illustrations will be used for products throughout
-
- 
- our company.
-
- 
-</p>
-
-<h3>Software Engineers</h3>
-
-<p>
- These people will develop public domain languages
-
- 
- and tools to solve a wide range of problems.
-
- 
-</p>
-
-<h3>Typesetters</h3>
-
-<p>
- These people will help ensure our written work
-
- 
- is presented simply, readably, and beautifully.
-
- 
-</p>
-
-<h3>CSV Curators</h3>
-
-<p>
- These people will build lots and lots of Google Sheets.
-
- 
-</p>
-
-<h3>Joke Writers</h3>
-
-<p>
- These people will produce public domain jokes for our
-
- 
- products throughout the company. Serious applicants
-
- 
- only.
-
- 
-</p>
-
-<h3>Video Producer</h3>
-
-<p>
- These people will produce public domain video content
-
- 
- and screencasts for our products throughout the
-
- 
- company.
-
- 
-</p>
-
-<h3>User Experience Designers</h3>
-
-<p>
- These people will ensure our users and community have
-
- 
- a great end-to-end experience in all interactions with
-
- 
- our products and company.
-
- 
-</p>
-
-<h3>Web/Grapher/Brand Designer</h3>
-
-<p>
- These people will apply their mastery of visual design
-
- 
- to simplify our products and ensure they are clearly
-
- 
- communicating our message and value to the world.
-
- 
-</p>
-
-<h3>Chief Legal Officer</h3>
-
-<p>
- This person will be responsible for our legal
-
- 
- strategy both offensive and defensive in the fight
-
- 
- for the public domain.
-
- 
-</p>
-
-<h3>Your Dream Job</h3>
-
-<p>
- If you are committed to the public domain but don't
-
- 
- fit a role we are currently hiring for, you can
-
- 
- send a short pull request explaining your position
-
- 
- here: <a href="https://github.com/publicdomaincompany/publicdomaincompany.com">
-
- 
- https://github.com/publicdomaincompany/publicdomaincompany.com</a>
-
- 
-</p>
-
-<h3>Mahalo</h3>
-
-<p>
- Thanks to the web design team at <a
-
- 
- href="https://www.berkshirehathaway.com/">Berkshire
-
- 
- Hathaway</a> for help with our corporate homepage design.
-
- 
-</p>
-<p class="scrollArticleSourceLink"><a href="https://github.com/publicdomaincompany/publicdomaincompany.com/readme.scroll">Article source</a></p></div>
-</div>
-  <div class="scrollChrome scrollIcons">
-   <a href="mailto:breck@publicdomaincompany.com"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Gmail icon</title><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/></svg></a>
-   <a href="https://twitter.com/publicdomainpub"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Twitter icon</title><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg></a>
-   <a href="https://github.com/publicdomaincompany"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>GitHub icon</title><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg></a>
+   <a href="https://scroll.publicdomaincompany.com/" class="scrollCommunityLink">Built with Scroll</a>
 </div>
 </body>
 </html>
