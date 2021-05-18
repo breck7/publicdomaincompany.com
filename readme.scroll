@@ -1,10 +1,6 @@
+permalink index
 paragraph
  <img src="logoV1.png" />
-
-paragraph
- <a href="https://github.com/publicdomaincompany/publicdomaincompany.com">
- edit this page</a>
-
 
 code
                                     /-  --------   
@@ -33,7 +29,7 @@ title3 What do we do and what is our mission?
 paragraph
  We build public domain software, databases and online
  communities. Our most famous non-famous product is
- <a href="https://scroll.publicdomaincompany.com/">Scroll</a>.
+ Scroll🔗scroll.publicdomaincompany.com.
 
 paragraph
  Our mission is to become the world's top media
@@ -155,12 +151,9 @@ paragraph
  If you are committed to the public domain but don't
  fit a role we are currently hiring for, you can
  send a short pull request explaining your position
- here: <a href="https://github.com/publicdomaincompany/publicdomaincompany.com">
- https://github.com/publicdomaincompany/publicdomaincompany.com</a>
+ here🔗github.com/publicdomaincompany/publicdomaincompany.com.
 
 title3 Mahalo
 
 paragraph
- Thanks to the web design team at <a
- href="https://www.berkshirehathaway.com/">Berkshire
- Hathaway</a> for help with our corporate homepage design.
+ Thanks to the web design team at BerkshireHathaway🔗www.berkshirehathaway.com for help with our corporate homepage design.
