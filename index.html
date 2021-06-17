@@ -7,7 +7,7 @@
  
  Generally you don't want to edit it by hand.
 
- Scroll v19.0.0
+ Scroll v19.2.0
 
 -->
 <!doctype html>
@@ -17,16 +17,17 @@
   <title> - The Public Domain Publishing Company</title>
   <meta name="viewport" content="width=device-width,initial-scale=1"></meta>
   <meta name="description" content="Our corporate homepage"></meta>
-  <meta name="generator" content="Scroll v19.0.0"></meta>
+  <meta name="generator" content="Scroll v19.2.0"></meta>
   <meta property="og:title" content=""></meta>
   <meta property="og:description" content="40,000 years ago somebody drew a bull in a cave and it's still visible today (the image above is a reproduction). We too want to make publications that last."></meta>
   <meta property="og:image" content="https://publicdomaincompany.com/logoV1.png"></meta>
   <meta name="twitter:card" content="summary_large_image"></meta>
-  <style>html,body,div,span,h1,h2,h3,h4,h5,h6,p,ol,ul {
+  <style>html,body,div,span,h1,h2,h3,h4,h5,h6,p,ol,ul,table {
   margin: 0;
   padding: 0;
   border: 0;
   vertical-align: baseline;
+  border-spacing: 0;
 }
 html {
   background-color: rgb(244,244,244);
@@ -95,7 +96,7 @@ html {
 }
 .scrollArticleCell {
   border-bottom: 1px solid rgb(204,204,204);
-  padding: 1ch;
+  padding: 1ch 0;
   break-inside: avoid;
   text-align: justify;
   margin-bottom: .5em;
@@ -118,6 +119,26 @@ html {
   padding-right: 20px;
   margin: auto;
 }
+.scrollPage table {
+  table-layout: fixed;
+  margin: .5em 0;
+  overflow: hidden;
+  font-size: 80%;
+  width: 100%;
+  hyphens: none;
+  border: 1px solid rgba(224,224,224,.8);
+}
+.scrollPage table td,.scrollPage table th {
+  padding: 3px;
+  overflow: hidden;
+}
+.scrollPage table th {
+  border-bottom: 2px solid rgba(0,0,0,.6);
+  text-align: left;
+}
+.scrollPage table tr:nth-child(even) {
+  background: rgba(224,224,224,.6);
+}
 .scrollPage ul,.scrollPage ol {
   text-align: left;
   line-height: 1.4em;
@@ -135,13 +156,13 @@ html {
 .scrollPage .scrollCodeBlock,.scrollPage blockquote {
   break-inside: avoid;
 }
-.scrollPage .scrollCodeBlock,.scrollPage table,.scrollPage blockquote {
+.scrollPage .scrollCodeBlock,.scrollPage blockquote {
   display: block;
   margin: .5em 0;
   padding: .5em;
-  background: rgba(204,204,204, .5);
+  background: rgba(204,204,204,.5);
 }
-.scrollPage .scrollCodeBlock,.scrollPage table {
+.scrollPage .scrollCodeBlock {
   overflow: auto;
   font-size: 80%;
   hyphens: none;
@@ -195,9 +216,9 @@ html {
      <a href="https://github.com/publicdomaincompany"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>GitHub icon</title><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg></a>
 </div>
 </div>
-   <h1 class="scrollTitle">
+   <h2 class="scrollTitle">
     <a href="index.html">The Public Domain Publishing Company</a>
-</h1>
+</h2>
    <div class="scrollDescription">Our corporate homepage</div>
 </div>
   <div class="scrollPage scrollSingleArticle" style="">
