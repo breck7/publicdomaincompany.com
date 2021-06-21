@@ -1,16 +1,15 @@
 title Team Handbook
-
 skipIndexPage
 
-title2 Working with us
+section Working with us
 
-title4 What roles are available?
+question What roles are available?
 
 paragraph
  An updated list of roles along with how to apply is listed
  on our jobs page🔗publicdomaincompany.com.
 
-title4 Why did you ignore my application?
+question Why did you ignore my application?
 
 paragraph
  If you applied, we almost certainly reviewed your
@@ -23,13 +22,13 @@ paragraph
  bad, but because we think we won't be able to lowball you
  with a terrible salary.
 
-title4 Can you hire people outside the USA?
+question Can you hire people outside the USA?
 
 paragraph
  Not yet. But we're working on it. You can still apply even
  if outside the USA.
 
-title4 What is the pay range for team members?
+question What is the pay range for team members?
 
 paragraph
  Our pay scale translates too be approximately $15 per
@@ -38,7 +37,7 @@ paragraph
  will be in equity options, which you should expect to be
  worth zero when the company goes bankrupt.
 
-title4 How does vesting work?
+question How does vesting work?
 
 paragraph
  Instead of a 12 month cliff, we have a 10 day cliff. If
@@ -49,21 +48,21 @@ paragraph
  After day 10, vesting starts and happens continuously every
  hour. Vesting periods are 10 years.
 
-title3 What benefits do we provide?
+question What benefits do we provide?
 
 paragraph
  Currently none. (Note: if you are the world's best
  HR/Benefits person, apply to join!)
 
-title3 How do I get paid?
+question How do I get paid?
 
 paragraph
  Via PayPal, Coinbase, or traditional banking, every Friday
  afternoon.
 
-title3 Contracting for Us
+section Contracting for Us
 
-title4 Why should I contract for Public Domain Company?
+question Why should I contract for Public Domain Company?
 
 paragraph
  First, because we won't waste your time. Second, because you
@@ -81,9 +80,9 @@ paragraph
  perhaps stupid, and contracting is perhaps the better long
  term solution in general.
 
-title3 Joining the Team
+section Joining the Team
 
-title4 How do I accept my employment offer?
+question How do I accept my employment offer?
 
 paragraph
  If you receive an offer to join the team, submit a pull
@@ -93,12 +92,12 @@ paragraph
  When that PR is merged in, you will officially be part of
  the team.
 
-title4 What happens when I accept my offer and join the team?
+question What happens when I accept my offer and join the team?
 
 paragraph
  You will be granted access to resources like the ones below.
 
-title4 Email
+subsection Email
 
 paragraph
  Someone will assign you a [yourname]@publicdomaincompany.com
@@ -107,23 +106,23 @@ paragraph
  existing email account and have your emails forwarded there
  if you don't mind mixing work and personal email accounts.
 
-title4 GitHub and GitLab repos
+subsection GitHub and GitLab repos
 
 paragraph
  Depending on your role and what products you will work on.
 
-title4 A Credit Card Number
+subsection A Credit Card Number
 
 paragraph
  For making business purchases without any approval.
 
-title4 Social media credentials
+subsection Social media credentials
 
 paragraph
  You will be given credentials for the subreddits, Twitters,
  et cetera, of the products you work on.
 
-title4 What tools do we use?
+question What tools do we use?
 
 paragraph
  Mostly Git and email for collaboration. Mostly Apple M1s. A
@@ -132,7 +131,7 @@ paragraph
 paragraph
  Generally it's use your favorite tools.
 
-title4 What is the parental leave policy?
+question What is the parental leave policy?
 
 paragraph
  $3k/month up to 24 months with full benefits, assuming we
@@ -142,7 +141,7 @@ paragraph
  task like hiring decisions, strategy decisions, and new
  ideas for submissions to /r/jokes.
 
-title4 What is the sabbatical policy?
+question What is the sabbatical policy?
 
 paragraph
  At any time you may go on unpaid sabbatical, without any
@@ -150,7 +149,7 @@ paragraph
  returned to the company's option pool. Minimum sabbatical
  period is 100 days.
 
-title4 How do I leave the team?
+question How do I leave the team?
 
 paragraph
  Submit a pull request taking yourself off the `team.scroll`🔗file.github.com/publicdomaincompany/publicdomaincompany.com/blob/main/team.scroll.
@@ -159,7 +158,7 @@ paragraph
  We will close out all your credentials. When we merge the
  pull request in, you will officially be off the team.
 
-title4 How much notice do I have to give when I quit?
+question How much notice do I have to give when I quit?
 
 paragraph
  The longer notice you give the better, but if you just won
@@ -167,7 +166,7 @@ paragraph
  and tell us to go fuck ourselves that's fine to. Just send a
  PR.
 
-title4 Can I continue to use everything I worked on when I leave, including this handbook?
+question Can I continue to use everything I worked on when I leave, including this handbook?
 
 paragraph
  Of course you fucking can. That's the whole point of the

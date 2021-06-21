@@ -24,7 +24,7 @@ paragraph
  still visible today (the image above is a reproduction). We
  too want to make publications that last.
 
-title3 What do we do and what is our mission?
+question What do we do and what is our mission?
 
 paragraph
  We build public domain software, databases and online
@@ -36,12 +36,12 @@ paragraph
  conglomerate to help catalyze a world where every
  child on earth has access to the world's best information.
 
-title3 How do we make money?
+question How do we make money?
 
 paragraph
  We sell paper products and classifieds.
 
-title3 What are some organizations supporting the public domain?
+question What are some organizations supporting the public domain?
 
 list
  - AgainstMonopoly🔗http://againstmonopoly.org
@@ -56,7 +56,7 @@ list
  - SQLite🔗SQLite.org
  - TorrentFreak🔗torrentfreak.com
 
-title2 Build for Us
+section Build for Us
 
 paragraph
  We are looking to fill the following positions via full
@@ -70,14 +70,14 @@ paragraph
  explaining why you want to work for the public domain
  and what you've built in the past.
 
-title3 Community Manager
+subsection Community Manager
 
 paragraph
  This person will build and manage fantastic subreddits,
  slacks, virtual conferences, Twitters, email groups,
  and so forth.
 
-title3 Financial Programmer
+subsection Financial Programmer
 
 paragraph
  This person will be a talented software engineer
@@ -86,13 +86,13 @@ paragraph
  be used by us for corporate documents, account, tax
  compliance, HR, and so forth.
 
-title3 Business Development
+subsection Business Development
 
 paragraph
  This person will source and acquire public domain
  projects and teams.
 
-title3 Public Domain Consultants
+subsection Public Domain Consultants
 
 paragraph
  Do you do stuff at one of those McKenzie firms? Would
@@ -101,66 +101,66 @@ paragraph
  domain one? Apply now! We promise we won't tell your
  MacKensey boss that you are looking to jump ship.
 
-title3 Comic Artists
+subsection Comic Artists
 
 paragraph
  These people will produce public domain comics. These
  illustrations will be used for products throughout
  our company.
 
-title3 Software Engineers
+subsection Software Engineers
 
 paragraph
  These people will develop public domain languages
  and tools to solve a wide range of problems.
 
-title3 Typesetters
+subsection Typesetters
 
 paragraph
  These people will help ensure our written work
  is presented simply, readably, and beautifully.
 
-title3 CSV Curators
+subsection CSV Curators
 
 paragraph
  These people will build lots and lots of Google Sheets.
 
-title3 Joke Writers
+subsection Joke Writers
 
 paragraph
  These people will produce public domain jokes for our
  products throughout the company. Serious applicants
  only.
 
-title3 Video Producer
+subsection Video Producer
 
 paragraph
  These people will produce public domain video content
  and screencasts for our products throughout the
  company.
 
-title3 User Experience Designers
+subsection User Experience Designers
 
 paragraph
  These people will ensure our users and community have
  a great end-to-end experience in all interactions with
  our products and company.
 
-title3 Web/Grapher/Brand Designer
+subsection Web/Grapher/Brand Designer
 
 paragraph
  These people will apply their mastery of visual design
  to simplify our products and ensure they are clearly
  communicating our message and value to the world.
 
-title3 Chief Legal Officer
+subsection Chief Legal Officer
 
 paragraph
  This person will be responsible for our legal
  strategy both offensive and defensive in the fight
  for the public domain.
 
-title3 Your Dream Job
+subsection Your Dream Job
 
 paragraph
  If you are committed to the public domain but don't
@@ -168,7 +168,7 @@ paragraph
  send a short pull request explaining your position
  here🔗github.com/publicdomaincompany/publicdomaincompany.com.
 
-title3 Mahalo
+section Mahalo
 
 paragraph
  Thanks to the web design team at BerkshireHathaway🔗www.berkshirehathaway.com for help with our corporate homepage design.
