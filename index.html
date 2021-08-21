@@ -1,3 +1,4 @@
+<!doctype html>
 <!--
 
  This page was compiled by 📜 Scroll, the public domain
@@ -7,22 +8,21 @@
  
  Generally you don't want to edit it by hand.
 
- Scroll v21.1.0
+ Scroll v22.1.1
 
 -->
-<!doctype html>
 <html lang="en-US">
  <head>
   <meta charset="utf-8"></meta>
   <title>The Public Domain Publishing Company</title>
   <meta name="viewport" content="width=device-width,initial-scale=1"></meta>
   <meta name="description" content="Our corporate homepage"></meta>
-  <meta name="generator" content="Scroll v21.1.0"></meta>
+  <meta name="generator" content="Scroll v22.1.1"></meta>
   <meta property="og:title" content=""></meta>
   <meta property="og:description" content="40,000 years ago somebody drew a bull in a cave and it's still visible today (the image above is a reproduction). We too want to make publications that last."></meta>
   <meta property="og:image" content="https://publicdomaincompany.com/logoV1.png"></meta>
   <meta name="twitter:card" content="summary_large_image"></meta>
-  <style>html,body,div,span,h1,h2,h3,h4,h5,h6,p,ol,ul,table {
+  <style>html,body,div,span,h1,h2,h3,h4,p,ol,ul,table {
   margin: 0;
   padding: 0;
   border: 0;
@@ -36,80 +36,45 @@ html {
   font-size: 14px;
   hyphens: auto;
 }
-.scrollChat span {
-  font-family: Verdana;
-  margin-top: 5px;
-  padding: 5px 20px;
-  border-radius: 15px;
-  display: inline-block;
+.scrollHeaderComponent {
+  border-bottom: 1px solid rgb(204,204,204);
+  text-align: center;
+  padding-bottom: 8px;
 }
-.scrollChat0 {
-  text-align: left;
-}
-.scrollChat0 span {
-  background: rgba(204,204,204, .5);
-}
-.scrollChat1 {
-  text-align: right;
-}
-.scrollChat1 span {
-  color: white;
-  background: rgb(0,132,255);
-}
-.scrollTitle a {
+.scrollNameComponent a {
   text-decoration: none;
   color: #000;
 }
-.scrollSocialMediaIcons svg {
+.scrollTopRightBarComponent {
+  text-align: right;
+  position: absolute;
+  right: 25px;
+  top: 3px;
+}
+.scrollSocialMediaIconsComponent svg {
   width: 30px;
   fill: rgba(204,204,204, .5);
   margin-left: 15px;
 }
-.scrollSocialMediaIcons svg:hover {
+.scrollSocialMediaIconsComponent svg:hover {
   fill: #333;
 }
-.scrollCommunityLink {
+.scrollFooterComponent {
+  border-top: 1px solid rgb(204,204,204);
+  margin-top: 8px;
+  padding-top: 8px;
+  text-align: center;
+}
+.scrollCommunityLinkComponent {
   display: block;
   font-family: Verdana;
   font-weight: 100;
   margin: .5em;
   padding-bottom: 1em;
   text-decoration: none;
-  color: rgba(204,204,204, .5);
+  color: rgba(204,204,204,.5);
 }
-.scrollTopRightBar {
-  text-align: right;
-  position: absolute;
-  right: 25px;
-  top: 3px;
-}
-.scrollFooter {
-  border-top: 1px solid rgb(204,204,204);
-  margin-top: 8px;
-  padding-top: 8px;
-  text-align: center;
-}
-.scrollHeader {
-  border-bottom: 1px solid rgb(204,204,204);
-  text-align: center;
-  padding-bottom: 8px;
-}
-.scrollArticleCell {
-  border-bottom: 1px solid rgb(204,204,204);
-  padding: 1ch 0;
-  break-inside: avoid;
-  text-align: justify;
-  margin-bottom: .5em;
-}
-.scrollImage {
-  display: block;
-  text-align: center;
-}
-.scrollImage img {
-  max-width: 35ch;
-  height: auto;
-}
-.scrollPage {
+.scrollIndexPageComponent,.scrollArticlePageComponent {
   column-count: auto;
   column-fill: balance;
   column-width: 35ch;
@@ -119,7 +84,61 @@ html {
   padding-right: 20px;
   margin: auto;
 }
-.scrollPage table {
+.scrollArticlePageComponent {
+  column-rule: none;
+  padding-top: 8px;
+}
+.scrollIndexPageArticleContainerComponent {
+  border-bottom: 1px solid rgb(204,204,204);
+  padding: 1ch 0;
+  break-inside: avoid;
+  text-align: justify;
+  margin-bottom: .5em;
+}
+.scrollTitleComponent {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: .25em;
+}
+.scrollTitleComponent a {
+  text-decoration: none;
+  color: #000;
+}
+.scrollArticleDateComponent {
+  font-style: italic;
+  font-size: 80%;
+}
+.scrollParagraphComponent {
+  text-indent: 1em;
+  margin-top: 0.4em;
+  line-height: 1.4em;
+}
+.scrollQuoteComponent {
+  break-inside: avoid;
+  display: block;
+  margin: .5em 0;
+  padding: .5em;
+  background: rgba(204,204,204,.5);
+  white-space: pre-line;
+  border-left: .5em solid rgba(204,204,204,.8);
+}
+.scrollQuestionComponent,.scrollSectionComponent,.scrollSubsectionComponent {
+  text-align: center;
+  margin: .2em;
+}
+.scrollCodeBlockComponent {
+  overflow: auto;
+  font-size: 80%;
+  hyphens: none;
+  white-space: pre;
+  border-left: .5em solid rgba(204,204,204,.8);
+  break-inside: avoid;
+  display: block;
+  margin: .5em 0;
+  padding: .5em;
+  background: rgba(204,204,204,.5);
+}
+.scrollTableComponent {
   table-layout: fixed;
   margin: .5em 0;
   overflow: hidden;
@@ -128,104 +147,81 @@ html {
   hyphens: none;
   border: 1px solid rgba(224,224,224,.8);
 }
-.scrollPage table td,.scrollPage table th {
+.scrollTableComponent td,.scrollTableComponent th {
   padding: 3px;
   overflow: hidden;
 }
-.scrollPage table th {
+.scrollTableComponent th {
   border-bottom: 2px solid rgba(0,0,0,.6);
   text-align: left;
 }
-.scrollPage table tr:nth-child(even) {
+.scrollTableComponent tr:nth-child(even) {
   background: rgba(224,224,224,.6);
 }
-.scrollPage ul,.scrollPage ol {
+.scrollUnorderedListComponent,.scrollOrderedListComponent {
   text-align: left;
   line-height: 1.4em;
   padding-left: 1em;
   margin-top: 0.4em;
 }
-.scrollPage p {
-  text-indent: 1em;
-  margin-top: 0.4em;
-  line-height: 1.4em;
-}
-.scrollPage p:first-of-type {
-  display: inline;
-}
-.scrollPage .scrollCodeBlock,.scrollPage blockquote {
-  break-inside: avoid;
-}
-.scrollPage .scrollCodeBlock,.scrollPage blockquote {
-  display: block;
-  margin: .5em 0;
-  padding: .5em;
-  background: rgba(204,204,204,.5);
-}
-.scrollPage .scrollCodeBlock {
-  overflow: auto;
-  font-size: 80%;
-  hyphens: none;
-}
-.scrollPage .scrollCodeBlock {
-  white-space: pre;
-  border-left: .5em solid rgba(204,204,204, .8);
-}
-.scrollPage blockquote {
-  white-space: pre-line;
-  border-left: .5em solid rgba(204,204,204, .8);
-}
-.scrollPage h1 {
-  font-size: 24px;
-  margin-bottom: .25em;
-}
-.scrollPage h1 a {
-  text-decoration: none;
-  color: #000;
-}
-.scrollPage h1,.scrollPage h2,.scrollPage h3,.scrollPage h4,.scrollPage h5,.scrollPage h6 {
-  text-align: center;
-}
-.scrollPage h2,.scrollPage h3,.scrollPage h4 {
-  margin: .2em;
-}
-.scrollArticleDate {
-  font-style: italic;
-  font-size: 80%;
-  display: inline;
-}
-.scrollArticleSourceLink {
+.scrollArticleSourceLinkComponent {
   text-align: center;
   font-size: 80%;
   margin: 0;
+  margin-top: 0.4em;
+  line-height: 1.4em;
 }
-.scrollArticleSourceLink a {
+.scrollArticleSourceLinkComponent a {
   color: #000;
   text-decoration: none;
 }
-.scrollSingleArticle {
-  column-rule: none;
-  padding-top: 8px;
+.scrollDialogueComponent span {
+  font-family: Verdana;
+  margin-top: 5px;
+  padding: 5px 20px;
+  border-radius: 15px;
+  display: inline-block;
+}
+.scrollDialogueComponentLeft {
+  text-align: left;
+}
+.scrollDialogueComponentLeft span {
+  background: rgba(204,204,204, .5);
+}
+.scrollDialogueComponentRight {
+  text-align: right;
+}
+.scrollDialogueComponentRight span {
+  color: white;
+  background: rgb(0,132,255);
+}
+.scrollImageComponent {
+  display: block;
+  text-align: center;
+}
+.scrollImageComponent img {
+  max-width: 35ch;
+  height: auto;
 }
 </style>
 </head>
  <body>
-  <div class="scrollHeader">
-   <div class="scrollTopRightBar">
-    <div class="scrollSocialMediaIcons">
+  <div class="scrollHeaderComponent">
+   <div class="scrollTopRightBarComponent">
+    <div class="scrollSocialMediaIconsComponent">
      <a href="https://github.com/publicdomaincompany"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>GitHub icon</title><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg></a>
 </div>
 </div>
-   <h2 class="scrollTitle">
+   <h2 class="scrollNameComponent">
     <a href="index.html">The Public Domain Publishing Company</a>
 </h2>
-   <div class="scrollDescription">Our corporate homepage</div>
+   <div>Our corporate homepage</div>
 </div>
-  <div class="scrollPage scrollSingleArticle" style="">
+  <div class="scrollArticlePageComponent" style="">
 
-<a href="logoV1.png" class="scrollImage" target="_blank"><img src="logoV1.png" width="385" height="150" loading="lazy"/></a>
+<a href="logoV1.png" class="scrollImageComponent" target="_blank"><img src="logoV1.png" width="385" height="150" loading="lazy"/></a>
 
-<code class="scrollCodeBlock">                                   /-  --------   
+<code class="scrollCodeBlockComponent">                                   /-  --------   
                                 /--           |   
                              /--              |   
         |                 /--                 |   
@@ -241,27 +237,27 @@ html {
                     \                             
                      -                               </code>
 
-<p>40,000 years ago somebody drew a bull in a cave and it's
+<p class="scrollParagraphComponent">40,000 years ago somebody drew a bull in a cave and it's
 still visible today (the image above is a reproduction). We
 too want to make publications that last.</p>
 
-<h4>What do we do and what is our mission?</h4>
+<h4 class="scrollQuestionComponent">What do we do and what is our mission?</h4>
 
-<p>We build public domain software, databases and online
-communities. Our most famous non-famous product is
-<a href="https://scroll.pub">Scroll</a>.</p>
+<p class="scrollParagraphComponent">We invent and publish languages.</p>
 
-<p>Our mission is to become a profitable media
-conglomerate to help catalyze a world where every
-child on earth has access to the world's best information.</p>
+<p class="scrollParagraphComponent">Our products in development include a new extensible alternative to Markdown called
+<a href="https://scroll.pub">Scroll</a>, a language for writing simulations using Emoji called <a href="https://simoji.pub">Simoji</a>, and a language for fast data science called <a href="https://ohayo.computer">Ohayo</a>.</p>
 
-<h4>How do we make money?</h4>
+<p class="scrollParagraphComponent">Our mission is to become a profitable <b>public domain</b> software company
+to help catalyze a world where every child on earth has access to the world's best information.</p>
 
-<p>We sell paper products and classifieds.</p>
+<h4 class="scrollQuestionComponent">How do we make money?</h4>
 
-<h4>What are some organizations supporting the public domain?</h4>
+<p class="scrollParagraphComponent">A great question for our CEO. When we hire one, they will let you know.</p>
 
-<ul>
+<h4 class="scrollQuestionComponent">What are some organizations supporting the public domain?</h4>
+
+<ul class="scrollUnorderedListComponent">
 <li><a href="http://againstmonopoly.org">AgainstMonopoly</a></li>
 <li><a href="http://c4sif.org">C4SIF</a></li>
 <li><a href="https://commoncrawl.org">CommonCrawl</a></li>
@@ -275,105 +271,105 @@ child on earth has access to the world's best information.</p>
 <li><a href="https://torrentfreak.com">TorrentFreak</a></li>
 </ul>
 
-<h3>Build with Us</h3>
+<h3 class="scrollSectionComponent">Build with Us</h3>
 
-<p>We have ongoing needs for the following talents. We generally start
+<p class="scrollParagraphComponent">We have ongoing needs for the following talents. We generally start
 with contract work but are looking to bring on new full timers if the fit is right.
 All jobs are remote. We are a registered Delaware Corporation and registered in
 Hawai'i. Our headquarters are in Honolulu.</p>
 
-<p>To apply, email <a href="mailto:apply@publicdomaincompany.com">apply@publicdomaincompany.com</a>
+<p class="scrollParagraphComponent">To apply, email <a href="mailto:apply@publicdomaincompany.com">apply@publicdomaincompany.com</a>
 explaining why you want to work for the public domain
 and with links to what you've built before.</p>
 
-<h4>Chief Executive Officer</h4>
+<h4 class="scrollSubsectionComponent">Chief Executive Officer</h4>
 
-<p>If you love the public domain, people, and sales, this could be
+<p class="scrollParagraphComponent">If you love the public domain, people, and sales, this could be
 a diamond-in-the-rough opportunity to cofound a new kind of
 for-profit company that is 100% committed to Intellectual Freedom and
 the public domain. You will craft the organization, identify the best
 business model, and help us reach profitability.</p>
 
-<h4>Community Manager</h4>
+<h4 class="scrollSubsectionComponent">Community Manager</h4>
 
-<p>This person will build and manage fantastic subreddits,
+<p class="scrollParagraphComponent">This person will build and manage fantastic subreddits,
 slacks, virtual conferences, Twitters, email groups,
 and so forth.</p>
 
-<h4>Financial Programmer</h4>
+<h4 class="scrollSubsectionComponent">Financial Programmer</h4>
 
-<p>This person will be a talented software engineer
+<p class="scrollParagraphComponent">This person will be a talented software engineer
 who develops novel public domain programming languages
 used to run our organization. These languages will
 be used by us for corporate documents, account, tax
 compliance, HR, and so forth.</p>
 
-<h4>Business Development</h4>
+<h4 class="scrollSubsectionComponent">Business Development</h4>
 
-<p>This person will source and acquire public domain
+<p class="scrollParagraphComponent">This person will source and acquire public domain
 projects and teams.</p>
 
-<h4>Comic Artists</h4>
+<h4 class="scrollSubsectionComponent">Comic Artists</h4>
 
-<p>These people will produce public domain comics. These
+<p class="scrollParagraphComponent">These people will produce public domain comics. These
 illustrations will be used for products throughout
 our company.</p>
 
-<h4>Software Engineers</h4>
+<h4 class="scrollSubsectionComponent">Software Engineers</h4>
 
-<p>These people will develop public domain languages
+<p class="scrollParagraphComponent">These people will develop public domain languages
 and tools to solve a wide range of problems.</p>
 
-<h4>Typesetters</h4>
+<h4 class="scrollSubsectionComponent">Typesetters</h4>
 
-<p>These people will help ensure our written work
+<p class="scrollParagraphComponent">These people will help ensure our written work
 is presented simply, readably, and beautifully.</p>
 
-<h4>CSV Curators</h4>
+<h4 class="scrollSubsectionComponent">CSV Curators</h4>
 
-<p>These people will build lots and lots of public domain datasets.</p>
+<p class="scrollParagraphComponent">These people will build lots and lots of public domain datasets.</p>
 
-<h4>Joke Writers</h4>
+<h4 class="scrollSubsectionComponent">Joke Writers</h4>
 
-<p>These people will produce public domain jokes for our
+<p class="scrollParagraphComponent">These people will produce public domain jokes for our
 products throughout the company. 70-80 years experience is a must.</p>
 
-<h4>Video Producer</h4>
+<h4 class="scrollSubsectionComponent">Video Producer</h4>
 
-<p>This person will produce public domain video content
+<p class="scrollParagraphComponent">This person will produce public domain video content
 and screencasts for our products throughout the
 company.</p>
 
-<h4>Web/Visual/Brand Designer</h4>
+<h4 class="scrollSubsectionComponent">Web/Visual/Brand Designer</h4>
 
-<p>These people will apply their mastery of visual design
+<p class="scrollParagraphComponent">These people will apply their mastery of visual design
 to simplify our products and ensure they are clearly
 communicating our message and value to the world.</p>
 
-<h4>Legal Programmer</h4>
+<h4 class="scrollSubsectionComponent">Legal Programmer</h4>
 
-<p>This person will have both software engineering and legal backgrounds and create new
+<p class="scrollParagraphComponent">This person will have both software engineering and legal backgrounds and create new
 DSLs and legal strategies both offensive and defensive in the fight
 for the public domain.</p>
 
-<h4>Your Dream Job</h4>
+<h4 class="scrollSubsectionComponent">Your Dream Job</h4>
 
-<p>If you are committed to the public domain but don't
+<p class="scrollParagraphComponent">If you are committed to the public domain but don't
 fit a role we are currently hiring for, you can
 send a short pull request explaining your position
 <a href="https://github.com/publicdomaincompany/publicdomaincompany.com">here</a>.</p>
 
-<h3>Mahalo</h3>
+<h3 class="scrollSectionComponent">Mahalo</h3>
 
-<p>Thanks to the web design team at <a href="https://www.berkshirehathaway.com">BerkshireHathaway</a> for help with our corporate homepage design.</p>
-<p class="scrollArticleSourceLink"><a href="https://github.com/publicdomaincompany/publicdomaincompany.com/blob/main//readme.scroll">Article source</a></p></div>
-  <div class="scrollFooter">
-   <div class="scrollSocialMediaIcons">
+<p class="scrollParagraphComponent">Thanks to the web design team at <a href="https://www.berkshirehathaway.com">BerkshireHathaway</a> for help with our corporate homepage design.</p>
+<p class="scrollArticleSourceLinkComponent"><a href="https://github.com/publicdomaincompany/publicdomaincompany.com/blob/main//readme.scroll">Article source</a></p></div>
+  <div class="scrollFooterComponent">
+   <div class="scrollSocialMediaIconsComponent">
     <a href="mailto:breck@publicdomaincompany.com"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Gmail icon</title><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/></svg></a>
     <a href="https://twitter.com/publicdomainpub"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Twitter icon</title><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg></a>
     <a href="https://github.com/publicdomaincompany"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>GitHub icon</title><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg></a>
 </div>
-   <a href="https://scroll.pub" class="scrollCommunityLink">Built with Scroll v21.1.0</a>
+   <a href="https://scroll.pub" class="scrollCommunityLinkComponent">Built with Scroll v22.1.1</a>
 </div>
 </body>
 </html>
