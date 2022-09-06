@@ -1,4 +1,4 @@
-permalink index
+permalink index.html
 
 image logoV1.png
 
@@ -19,148 +19,34 @@ code
                      \                             
                       -                               
 
-paragraph
- 40,000 years ago somebody drew a bull in a cave and it's
- still visible today (the image above is a reproduction). We
- too want to make publications that last.
+* 40,000 years ago somebody drew a bull in a cave and it's still visible today (the image above is a reproduction). We too want to make publications that last.
 
 question What do we do and what is our mission?
 
-paragraph
- We invent and publish languages.
+* We make public domain CSV files.
 
-paragraph
- Our products in development include a new extensible alternative to Markdown called
- Scroll🔗scroll.pub, a language for writing simulations using Emoji called Simoji🔗simoji.pub, and a language for fast data science called Ohayo🔗ohayo.computer.
+* Our main products are two public domain CSV files named PLDB and CancerDB.
 
-paragraph
- Our mission is to become a profitable <b>public domain</b> software company
- to help catalyze a world where every child on earth has access to the world's best information.
+* Our mission is to help catalyze a world where every child on earth has access to the world's best information.
 
 question How do we make money?
 
-paragraph
- A great question for our CEO. When we hire one, they will let you know.
-
-question What are some organizations supporting the public domain?
-
-list
- - AgainstMonopoly🔗http://againstmonopoly.org
- - C4SIF🔗http://c4sif.org
- - CommonCrawl🔗commoncrawl.org
- - InternetArchive🔗archive.org
- - OpenKnowledgeFoundation🔗okfn.org
- - PLOS🔗plos.org
- - PrimarySourcesOnCopyrights🔗copyrighthistory.org
- - PublicDomainReview🔗publicdomainreview.org
- - QuestionCopyright.org🔗questioncopyright.org
- - SQLite🔗SQLite.org
- - TorrentFreak🔗torrentfreak.com
-
-section Build with Us
-
-paragraph
- We have ongoing needs for the following talents. We generally start
- with contract work but are looking to bring on new full timers if the fit is right.
- All jobs are remote. We are a registered Delaware Corporation and registered in
- Hawai'i. Our headquarters are in Honolulu.
-
-paragraph
- To apply, email <a href="mailto:apply@publicdomaincompany.com">apply@publicdomaincompany.com</a>
- explaining why you want to work for the public domain
- and with links to what you've built before.
-
-subsection Chief Executive Officer
-
-paragraph
- If you love the public domain, people, and sales, this could be
- a diamond-in-the-rough opportunity to cofound a new kind of
- for-profit company that is 100% committed to Intellectual Freedom and
- the public domain. You will craft the organization, identify the best
- business model, and help us reach profitability.
-
-subsection Community Manager
-
-paragraph
- This person will build and manage fantastic subreddits,
- slacks, virtual conferences, Twitters, email groups,
- and so forth.
-
-subsection Financial Programmer
-
-paragraph
- This person will be a talented software engineer
- who develops novel public domain programming languages
- used to run our organization. These languages will
- be used by us for corporate documents, account, tax
- compliance, HR, and so forth.
-
-subsection Business Development
-
-paragraph
- This person will source and acquire public domain
- projects and teams.
-
-subsection Comic Artists
-
-paragraph
- These people will produce public domain comics. These
- illustrations will be used for products throughout
- our company.
-
-subsection Software Engineers
-
-paragraph
- These people will develop public domain languages
- and tools to solve a wide range of problems.
-
-subsection Typesetters
-
-paragraph
- These people will help ensure our written work
- is presented simply, readably, and beautifully.
-
-subsection CSV Curators
-
-paragraph
- These people will build lots and lots of public domain datasets.
-
-subsection Joke Writers
-
-paragraph
- These people will produce public domain jokes for our
- products throughout the company. 70-80 years experience is a must.
-
-subsection Video Producer
-
-paragraph
- This person will produce public domain video content
- and screencasts for our products throughout the
- company.
-
-subsection Web/Visual/Brand Designer
-
-paragraph
- These people will apply their mastery of visual design
- to simplify our products and ensure they are clearly
- communicating our message and value to the world.
-
-subsection Legal Programmer
-
-paragraph
- This person will have both software engineering and legal backgrounds and create new
- DSLs and legal strategies both offensive and defensive in the fight
- for the public domain.
-
-subsection Your Dream Job
-
-paragraph
- If you are committed to the public domain but don't
- fit a role we are currently hiring for, you can
- send a short pull request explaining your position
- here🔗github.com/publicdomaincompany/publicdomaincompany.com.
+* Buy us a coffee! https://www.buymeacoffee.com/pldb
+ https://www.buymeacoffee.com/pldb https://www.buymeacoffee.com/pldb
 
 section Mahalo
 
-paragraph
- Thanks to the web design team at BerkshireHathaway🔗www.berkshirehathaway.com for help with our corporate homepage design.
+* Thanks to the web design team at BerkshireHathaway for help with our corporate homepage design.
+ https://www.berkshirehathaway.com BerkshireHathaway
+
+title The Public Domain Publishing Company
+siteDescription Our corporate homepage
+siteTitle The Public Domain Publishing Company
+github https://github.com/breck7/publicdomaincompany
+twitter https://twitter.com/breckyunits
+email breck@pldb.com
+baseUrl https://publicdomaincompany.com/
+scrollHeader 
+
+maxColumns 1
+columnWidth 60
