@@ -23,16 +23,38 @@ code
 
 question What do we do and what is our mission?
 
-* We make public domain CSV files.
+* We make two public domain CSV files. PLDB.csv and CancerDB.csv.
+ https://github.com/breck7/pldb PLDB.csv
+ https://github.com/breck7/CancerDB CancerDB.csv
 
-* Our main products are two public domain CSV files named PLDB and CancerDB.
+* PLDB helps programming language designers build the next great programming language.
 
-* Our mission is to help catalyze a world where every child on earth has access to the world's best information.
+* CancerDB helps cancer researchers build the next great cure.
+
+* Along the way we hope to help build a world where every child on earth has access to the world's best information.
 
 question How do we make money?
 
-* Buy us a coffee! https://www.buymeacoffee.com/pldb
- https://www.buymeacoffee.com/pldb https://www.buymeacoffee.com/pldb
+* Sponsor a fact! https://pldb.com/pages/sponsor-a-fact.html
+ https://pldb.com/pages/sponsor-a-fact.html https://pldb.com/pages/sponsor-a-fact.html
+
+section Legal Mumbo Jumbo
+
+* The official corporate name is Public Domain Publishing, Inc. Or if you are buying a vanity license plate `PDP`.
+
+* Our PO box is:
+
+code
+ Public Domain Publishing, Inc.
+ c/o Box Jelly
+ 1200 Ala Moana Blvd
+ 2nd Floor
+ Honolulu, HI 96814
+
+section Interesting in investing?
+
+* We would love to tell you more about PDP. Book a meeting via our Calendly page. We will send you our pitch deck and access to our data room. Book a meeting on our calendly.
+ https://giving.uhfoundation.org/funds/12388504 Book a meeting on our calendly
 
 section Mahalo
 
@@ -50,3 +72,7 @@ scrollHeader
 
 maxColumns 1
 columnWidth 60
+
+* <center><h3>#BuildPublicDomain</h3></center>
+ https://pldb.com/posts/buildPublicDomain.html #BuildPublicDomain
+
