@@ -23,9 +23,9 @@ code
 
 question What do we do and what is our mission?
 
-* We make two public domain CSV files. PLDB.csv and CancerDB.csv.
- https://github.com/breck7/pldb PLDB.csv
- https://github.com/breck7/CancerDB CancerDB.csv
+* We make two public domain CSV files. PLDB and CancerDB.
+ https://github.com/breck7/pldb PLDB
+ https://github.com/breck7/CancerDB CancerDB
 
 * PLDB helps programming language designers build the next great programming language.
 
