@@ -86,6 +86,3 @@ list
 
 permalink index.html
 import settings.scroll
-scrollHeader 
-maxColumns 1
-columnWidth 60
