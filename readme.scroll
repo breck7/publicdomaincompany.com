@@ -1,4 +1,4 @@
-permalink index.html
+title The Public Domain Publishing Company
 
 image logoV1.png
 
@@ -62,22 +62,15 @@ code
 * We would love to tell you more about PDP. Book a meeting via our Calendly page. We will send you our pitch deck and access to our data room. Book a meeting on our calendly.
  https://giving.uhfoundation.org/funds/12388504 Book a meeting on our calendly
 
+# Do we have a blog?
+
+* Yes.
+ link blog.html Yes
+
 # Mahalo
 
 * Thanks to the web design team at BerkshireHathaway for help with our corporate homepage design.
  https://www.berkshirehathaway.com BerkshireHathaway
-
-title The Public Domain Publishing Company
-siteDescription Our corporate homepage
-siteTitle The Public Domain Publishing Company
-github https://github.com/breck7/publicdomaincompany.com
-twitter https://twitter.com/breckyunits
-email breck@pldb.com
-baseUrl https://publicdomaincompany.com/
-scrollHeader 
-
-maxColumns 1
-columnWidth 60
 
 * <center><h3>#BuildPublicDomain</h3></center>
  https://pldb.com/posts/buildPublicDomain.html #BuildPublicDomain
@@ -90,3 +83,9 @@ list
  - First product launch: 24 days ago
 
 * OVERNIGHT SUCCESS.
+
+permalink index.html
+import settings.scroll
+scrollHeader 
+maxColumns 1
+columnWidth 60
