@@ -1,0 +1,14 @@
+{
+  "name": "PublicDomainCompany.com",
+  "version": "1.0.0",
+  "description": "Our corporate homepage, blog, and legal department's hard drive.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breck7/publicdomaincompany.com.git"
+  },
+  "author": "Public Domain Publishing Inc.",
+  "homepage": "https://publicdomaincompany.com/",
+  "dependencies": {
+    "scroll-cli": "^35.1.0"
+  }
+}
