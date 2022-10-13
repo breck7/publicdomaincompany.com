@@ -9,6 +9,6 @@
   "author": "Public Domain Publishing Inc.",
   "homepage": "https://publicdomaincompany.com/",
   "dependencies": {
-    "scroll-cli": "^35.1.0"
+    "scroll-cli": "^35.1.2"
   }
 }
