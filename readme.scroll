@@ -72,9 +72,24 @@ code
 
 ## History
 
-- Idea: 3,558 days ago
-- Incorporation Paperwork: 555 days ago 
-- First product launch: 24 days ago
+dayjsNode
+ cruxFromId
+ extends abstractAftertextDirectiveNode
+ javascript
+  getInserts() {
+    const dayjs = require("dayjs")
+    const code = this.getContent()
+    const days = eval(code)
+    const index = this.getParent().originalText.indexOf("days")
+    return [{ index, string: `${days} ` }]
+  }
+
+- Idea: days ago
+ dayjs Math.floor(dayjs().diff(dayjs("2012-12-14"), "day", true))
+- Incorporation Paperwork: days ago
+ dayjs Math.floor(dayjs().diff(dayjs("2021-03-21"), "day", true))
+- First product launch: days ago
+ dayjs Math.floor(dayjs().diff(dayjs("2022-08-28"), "day", true))
 
 * OVERNIGHT SUCCESS.
 
