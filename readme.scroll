@@ -90,18 +90,6 @@ code
 
 ## History
 
-dayjsNode
- cruxFromId
- extends abstractAftertextDirectiveNode
- javascript
-  getInserts() {
-    const dayjs = require("dayjs")
-    const code = this.getContent()
-    const days = eval(code)
-    const index = this.getParent().originalText.indexOf("days")
-    return [{ index, string: `${days} ` }]
-  }
-
 - Idea: days ago
  dayjs Math.floor(dayjs().diff(dayjs("2012-12-14"), "day", true))
 - Incorporation Paperwork: days ago
