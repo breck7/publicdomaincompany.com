@@ -7,5 +7,3 @@ email breck@pldb.com
 baseUrl https://publicdomaincompany.com/
 viewSourceBaseUrl https://github.com/breck7/publicdomaincompany.com/blob/main
 rssFeedUrl feed.xml
-maxColumns 1
-columnWidth 53
