@@ -1,0 +1,27 @@
+title Public Domain Publishing Inc. suffers complete code and data breach
+date 11-11-2022
+
+## All source code and data from the startup downloaded by hackers with a one line command
+
+endSnippet
+
+* Public Domain Publishing Inc. reported today that hackers have made off with all source code and data from the company.
+ dateline
+ https://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/1449389554 hackers
+
+## Apparently the one line bash command below allowed hackers worldwide to make off with everything:
+ https://pldb.com/languages/bash.html bash
+
+bashCode
+ git clone https://github.com/breck7/publicdomaincompany.com.git; git clone https://github.com/breck7/longbeach.pub.git; git clone https://github.com/breck7/CancerDB.git; git clone https://github.com/breck7/scroll.git; git clone https://github.com/breck7/simoji.git; git clone https://github.com/breck7/ohayo.git; git clone https://github.com/breck7/jtree.git; git clone https://github.com/breck7/pldb.git; git clone https://github.com/breck7/MusicOfAPeople.git;
+
+image hacker.jpg
+ caption Sources say this hacker, seen here potentially escaping to Venice via Gondola, wrote the code that allowed anyone to download a copy of all the company's source code.
+
+* The company is currently investigating reports that the hackers were complaining about long download times. Updates will be posted here.
+ https://github.com/breck7/pldb/issues/189 long download times.
+
+openGraphImage https://publicdomaincompany.com/hacker.jpg
+groups index
+import settings.scroll
+keyboardNav

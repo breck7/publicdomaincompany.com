@@ -17,7 +17,7 @@ html
 
 openGraphImage https://pldb.com/posts/images/dreamOnLittleDreamer.png
 
-groups index publicDomainCompany
+groups index
 
 html
  <br><br></center>

@@ -37,7 +37,7 @@ html
 
 openGraphImage https://pldb.com/posts/images/buildPublicDomain.png
 
-groups index publicDomainCompany
+groups index
 
 html
  <br><br></center>
