@@ -4,7 +4,8 @@ date 09-04-2022
 html
  <center>
 
-* It all started with <a href="https://archive.org/details/1983-30sec">1984</a>.
+* It all started with 1984.
+ https://archive.org/details/1983-30sec 1984
 
 html
  <iframe width="325" height="330" src="https://www.youtube.com/embed/VtvjbmoDx-I" title="1984 Apple's Macintosh Commercial (HD)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -20,20 +21,12 @@ html
 
 * Today is the dawn of a new message:
 
-html
- <br><br>
-
-html
- <h1 style="font-family: italics; text-align: center;">#BuildPublicDomain</h1>
-
-html
- <br><br>
+# #BuildPublicDomain
 
 html
  <iframe width="325" height="275" src="https://www.youtube.com/embed/CYPYZnVQoLg" title="#BuildPublicDomain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-html
- <i>v0.1</i>
+* _v0.1_
 
 openGraphImage https://pldb.com/posts/images/buildPublicDomain.png
 
