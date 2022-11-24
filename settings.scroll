@@ -1,9 +1,9 @@
 importOnly
 siteDescription Our corporate homepage
 siteTitle The Public Domain Publishing Company
-github https://github.com/breck7/publicdomaincompany.com
+github https://github.com/breck7/pd.pub
 twitter https://twitter.com/breckyunits
 email breck@pldb.com
-baseUrl https://publicdomaincompany.com/
-viewSourceBaseUrl https://github.com/breck7/publicdomaincompany.com/blob/main
+baseUrl https://pd.pub/
+viewSourceBaseUrl https://github.com/breck7/pd.pub/blob/main
 rssFeedUrl feed.xml
