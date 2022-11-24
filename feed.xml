@@ -1,33 +1,43 @@
+<p class="scrollParagraphComponent">siteDescription Our corporate homepage</p>
+<p class="scrollParagraphComponent">siteTitle The Public Domain Publishing Company</p>
+
+
+
+
+
+
+
+
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <rss version="0.91">
 <channel>
- <title>The Public Domain Publishing Company</title>
- <link>https://publicdomaincompany.com/</link>
- <description>Our corporate homepage</description>
+ <title></title>
+ <link>https://pd.pub/</link>
+ <description></description>
  <language>en-us</language>
  <item>
   <title>Public Domain Publishing Inc. suffers complete code and data breach</title>
-  <link>https://publicdomaincompany.com/code-download.html</link>
+  <link>https://pd.pub/code-download.html</link>
  </item>
  <item>
   <title>#Rejected</title>
-  <link>https://publicdomaincompany.com/wefunder.html</link>
+  <link>https://pd.pub/wefunder.html</link>
  </item>
  <item>
   <title>Real Time Research</title>
-  <link>https://publicdomaincompany.com/real-time-research.html</link>
+  <link>https://pd.pub/real-time-research.html</link>
  </item>
  <item>
   <title>#DreamOnLittleDreamer</title>
-  <link>https://publicdomaincompany.com/bern.html</link>
+  <link>https://pd.pub/bern.html</link>
  </item>
  <item>
   <title>#BuildPublicDomain</title>
-  <link>https://publicdomaincompany.com/buildPublicDomain.html</link>
+  <link>https://pd.pub/buildPublicDomain.html</link>
  </item>
  <item>
   <title>Motivational posters</title>
-  <link>https://publicdomaincompany.com/motivationalPosters.html</link>
+  <link>https://pd.pub/motivationalPosters.html</link>
  </item>
 </channel>
 </rss>
