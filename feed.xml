@@ -1,12 +1,3 @@
-<h1 class="scrollTitleComponent"><a href="feed.xml">Public Domain Publishing, Inc.</a></h1>
-
-
-
-
-
-
-
-
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <rss version="0.91">
 <channel>
@@ -15,28 +6,30 @@
  <description>Our corporate homepage</description>
  <language>en-us</language>
  <item>
-  <title>Public Domain Publishing, Inc.</title>
+  <title>Public Domain Publishing Inc. suffers complete code and data breach</title>
   <link>https://pd.pub/code-download.html</link>
  </item>
  <item>
-  <title>Public Domain Publishing, Inc.</title>
+  <title>#Rejected</title>
   <link>https://pd.pub/wefunder.html</link>
  </item>
  <item>
-  <title>Public Domain Publishing, Inc.</title>
+  <title>Real Time Research</title>
   <link>https://pd.pub/real-time-research.html</link>
  </item>
  <item>
-  <title>Public Domain Publishing, Inc.</title>
+  <title>#DreamOnLittleDreamer</title>
   <link>https://pd.pub/bern.html</link>
  </item>
  <item>
-  <title>Public Domain Publishing, Inc.</title>
+  <title>#BuildPublicDomain</title>
   <link>https://pd.pub/buildPublicDomain.html</link>
  </item>
  <item>
-  <title>Public Domain Publishing, Inc.</title>
+  <title>Motivational posters</title>
   <link>https://pd.pub/motivationalPosters.html</link>
  </item>
 </channel>
 </rss>
+
+<h1 class="scrollTitleComponent"><a href="feed.xml">Public Domain Publishing, Inc.</a></h1>
