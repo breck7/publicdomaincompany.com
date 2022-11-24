@@ -1,5 +1,4 @@
-<p class="scrollParagraphComponent">siteDescription Our corporate homepage</p>
-<p class="scrollParagraphComponent">siteTitle The Public Domain Publishing Company</p>
+<h1 class="scrollTitleComponent"><a href="feed.xml">Public Domain Publishing, Inc.</a></h1>
 
 
 
@@ -11,32 +10,32 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <rss version="0.91">
 <channel>
- <title></title>
+ <title>Public Domain Publishing, Inc.</title>
  <link>https://pd.pub/</link>
- <description></description>
+ <description>Our corporate homepage</description>
  <language>en-us</language>
  <item>
-  <title>Public Domain Publishing Inc. suffers complete code and data breach</title>
+  <title>Public Domain Publishing, Inc.</title>
   <link>https://pd.pub/code-download.html</link>
  </item>
  <item>
-  <title>#Rejected</title>
+  <title>Public Domain Publishing, Inc.</title>
   <link>https://pd.pub/wefunder.html</link>
  </item>
  <item>
-  <title>Real Time Research</title>
+  <title>Public Domain Publishing, Inc.</title>
   <link>https://pd.pub/real-time-research.html</link>
  </item>
  <item>
-  <title>#DreamOnLittleDreamer</title>
+  <title>Public Domain Publishing, Inc.</title>
   <link>https://pd.pub/bern.html</link>
  </item>
  <item>
-  <title>#BuildPublicDomain</title>
+  <title>Public Domain Publishing, Inc.</title>
   <link>https://pd.pub/buildPublicDomain.html</link>
  </item>
  <item>
-  <title>Motivational posters</title>
+  <title>Public Domain Publishing, Inc.</title>
   <link>https://pd.pub/motivationalPosters.html</link>
  </item>
 </channel>
