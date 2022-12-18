@@ -7,11 +7,16 @@ title Pub Training Manual
 
 author https://breckyunits.com Breck Yunits
 
+openGraphImage https://pd.pub/trainingManual.jpg
+
 startColumns 4
 
 * Aloha! Welcome to the team! We don't have titles here. We have a mission, customers, and jobs to be done.
  dateline
  link ourMission.html mission
+
+html
+ <div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/b7cc2f7ca02649a5af00ebdd4f941ef2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 endSnippet
 
