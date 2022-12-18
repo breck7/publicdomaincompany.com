@@ -1,4 +1,6 @@
+import header.scroll
 title Public Domain Publishing Inc.
+description Our corporate homepage
 
 image logoV1.png
 
@@ -106,7 +108,5 @@ code
 * OVERNIGHT SUCCESS.
 
 permalink index.html
-import settings.scroll
 
-description Our corporate homepage
-title Public Domain Publishing, Inc.
+import footer.scroll

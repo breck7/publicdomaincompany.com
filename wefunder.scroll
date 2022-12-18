@@ -1,3 +1,4 @@
+import header.scroll
 title #Rejected
 date 09-11-2022
 
@@ -19,6 +20,6 @@ groups index
 html
  <br><br></center>
 
-import settings.scroll
 groups index
 keyboardNav
+import footer.scroll

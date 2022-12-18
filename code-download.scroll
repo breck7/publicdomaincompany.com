@@ -1,3 +1,4 @@
+import header.scroll
 title Public Domain Publishing Inc. suffers complete code and data breach
 date 11-11-2022
 
@@ -23,5 +24,5 @@ image hacker.jpg
 
 openGraphImage https://pd.pub/hacker.jpg
 groups index
-import settings.scroll
 keyboardNav
+import footer.scroll

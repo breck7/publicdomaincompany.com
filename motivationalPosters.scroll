@@ -1,3 +1,4 @@
+import header.scroll
 title Motivational posters
 date 2021-03-06
 
@@ -57,5 +58,6 @@ motivationalPosterMeme
  "Creators" are responsible for creating great content like I'm responsible
  for building Mauna Kea for breathing on it.
 
-import settings.scroll
 groups index
+
+import footer.scroll
