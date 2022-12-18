@@ -1,12 +1,15 @@
 import header.scroll
 title #DreamOnLittleDreamer
 date 09-08-2022
+groups index
 
-html
- <center>
+author https://breckyunits.com Breck Yunits
+
+startColumns 1
 
 * There's a hardware startup in India I think people should check out. #DreamOnLittleDreamer
  https://www.youtube.com/watch?v=gXOFDlNIZvA hardware startup
+  dateline
 
 html
  <iframe width="325" height="330" src="https://www.youtube.com/embed/ne8EzOX-Dmw" title="Dream on Little Dreamer Ad – Second Draft" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -18,11 +21,5 @@ html
 
 openGraphImage https://pldb.com/posts/images/dreamOnLittleDreamer.png
 
-groups index
-
-html
- <br><br></center>
-
-groups index
 keyboardNav
 import footer.scroll

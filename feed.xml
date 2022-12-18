@@ -6,6 +6,14 @@
  <description>Our corporate homepage</description>
  <language>en-us</language>
  <item>
+  <title>Pub Training Manual</title>
+  <link>https://pd.pub/trainingManual.html</link>
+ </item>
+ <item>
+  <title>Our Mission</title>
+  <link>https://pd.pub/ourMission.html</link>
+ </item>
+ <item>
   <title>Public Domain Publishing Inc. suffers complete code and data breach</title>
   <link>https://pd.pub/code-download.html</link>
  </item>
@@ -31,5 +39,3 @@
  </item>
 </channel>
 </rss>
-
-<h1 class="scrollTitleComponent"><a href="feed.xml">Public Domain Publishing, Inc.</a></h1>

@@ -1,8 +1,12 @@
 import header.scroll
 title Public Domain Publishing Inc. suffers complete code and data breach
 date 11-11-2022
+groups index
+
+startColumns 2
 
 ## All source code and data from the startup downloaded by hackers with a one line command
+
 
 endSnippet
 
@@ -23,6 +27,5 @@ image hacker.jpg
  https://github.com/breck7/pldb/issues/189 long download times.
 
 openGraphImage https://pd.pub/hacker.jpg
-groups index
 keyboardNav
 import footer.scroll

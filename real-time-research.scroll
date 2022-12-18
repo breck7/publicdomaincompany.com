@@ -1,11 +1,14 @@
 import header.scroll
 title Real Time Research
 date 09-08-2022
+groups index
 
-html
- <center>
+startColumns 1
+
+author https://breckyunits.com Breck Yunits
 
 * John Snow is dead.
+ dateline
 
 * But his ideas live on.
 
@@ -29,11 +32,5 @@ image images/john-snow.jpeg
 
 openGraphImage https://pldb.com/posts/images/john-snow.jpeg
 
-groups index
-
-html
- <br><br></center>
-
-groups index
 keyboardNav
 import footer.scroll

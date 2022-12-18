@@ -1,11 +1,14 @@
 import header.scroll
 title #BuildPublicDomain
 date 09-04-2022
+groups index
 
-html
- <center>
+author https://breckyunits.com Breck Yunits
+
+startColumns 1
 
 * It all started with 1984.
+ dateline
  https://archive.org/details/1983-30sec 1984
 
 html
@@ -31,11 +34,5 @@ html
 
 openGraphImage https://pldb.com/posts/images/buildPublicDomain.png
 
-groups index
-
-html
- <br><br></center>
-
-groups index
 keyboardNav
 import footer.scroll

@@ -2,6 +2,8 @@ import header.scroll
 title Public Domain Publishing Inc.
 description Our corporate homepage
 
+startColumns 4
+
 image logoV1.png
 
 code
@@ -45,7 +47,7 @@ code
  https://musicofapeople.com/ Music of a People
 
 
-* Along the way we hope to help build a world where every child on earth has access to the world's best information.
+* Our mission is to help build a world where every child has access to the whole truth.
 
 ? Who is on the team?
 
