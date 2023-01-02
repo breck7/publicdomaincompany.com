@@ -11,8 +11,7 @@ startColumns 1
  https://www.youtube.com/watch?v=gXOFDlNIZvA hardware startup
   dateline
 
-html
- <iframe width="325" height="330" src="https://www.youtube.com/embed/ne8EzOX-Dmw" title="Dream on Little Dreamer Ad – Second Draft" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+youTube https://www.youtube.com/embed/ne8EzOX-Dmw
 
 # Thank you
 

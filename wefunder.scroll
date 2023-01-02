@@ -5,8 +5,7 @@ groups index
 
 startColumns 1
 
-html
- <iframe width="325" height="330" src="https://www.youtube.com/embed/yogvgmK2L4g" title="Breck Yunits - Public Domain Publishing YCombinator Application S'2021. #REJECTED" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+youTube https://www.youtube.com/embed/yogvgmK2L4g
 
 * One of our favorite people once said: _never, ever give up_
 

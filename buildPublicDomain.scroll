@@ -11,13 +11,11 @@ startColumns 1
  dateline
  https://archive.org/details/1983-30sec 1984
 
-html
- <iframe width="325" height="330" src="https://www.youtube.com/embed/VtvjbmoDx-I" title="1984 Apple's Macintosh Commercial (HD)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+youTube https://www.youtube.com/embed/VtvjbmoDx-I
 
 * Tech used to have a message that sent a chill up your spine.
 
-html
- <iframe width="325" height="330" src="https://www.youtube.com/embed/-z4NS2zdrZc" title="Apple Steve Jobs Heres To The Crazy Ones" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+youTube https://www.youtube.com/embed/-z4NS2zdrZc
 
 * It's been too long since we had one.
 
@@ -27,8 +25,7 @@ html
 
 # #BuildPublicDomain
 
-html
- <iframe width="325" height="275" src="https://www.youtube.com/embed/CYPYZnVQoLg" title="#BuildPublicDomain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+youTube https://www.youtube.com/embed/CYPYZnVQoLg
 
 * _v0.1_
 
