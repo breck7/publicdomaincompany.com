@@ -1,6 +1,5 @@
 importOnly
-github https://github.com/breck7/pd.pub
-twitter https://twitter.com/breckyunits
+git https://github.com/breck7/pd.pub
 email breck@pldb.com
 baseUrl https://pd.pub/
 viewSourceBaseUrl https://github.com/breck7/pd.pub/blob/main
