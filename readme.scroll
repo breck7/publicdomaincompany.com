@@ -1,7 +1,7 @@
 import header.scroll
 title Public Domain Publishing Inc.
 description Our corporate homepage
-
+permalink index.html
 startColumns 4
 
 image logoV1.png
@@ -22,51 +22,48 @@ code
    |   -            \                              
                      \                             
                       -                               
-
 * 40,000 years ago somebody drew a bull in a cave and it's still visible today (the image above is a reproduction). We too want to make publications that last.
 
 # Do we have a blog?
-
 * Yes.
  link blog.html Yes
 
-? What do we do and what is our mission?
-
-* We make two public domain CSV files. PLDB and CancerDB.
- https://github.com/breck7/pldb PLDB
- https://github.com/breck7/CancerDB CancerDB
-
+? What do we make?
+## CSV Files
+* Our primary business is making public domain CSV files. Our first two are PLDB and CancerDB.
+ https://pldb.com/ PLDB
+ https://cancerdb.com/ CancerDB
 * PLDB helps programming language designers build the next great programming language.
-
 * CancerDB helps cancer researchers build the next great cure.
 
-* We also make blogging software called Scroll, a data visualization studio called Ohayo, a newspaper called the Long Beach Pub, and a music label called Music of a People.
+## Newspapers
+* We also make local public domain newspapers. Our first two are The Long Beach Pub and The Hawai'i Pub.
+ https://longbeach.pub/ The Long Beach Pub
+ http://hawaii.pub/ The Hawai'i Pub
+
+## Software
+* We also make blogging software called Scroll, a data visualization studio called Ohayo, and a music label called Music of a People.
  https://scroll.pub/ Scroll
  https://v20.ohayo.computer/ Ohayo
- https://longbeach.pub/ the Long Beach Pub
  https://musicofapeople.com/ Music of a People
 
-
+? What is our mission?
 * Our mission is to help build a world where every child has access to the whole truth.
 
 ? Who is on the team?
-
 * AMBASSADOR BRAINSTORM BULLDOG BUNNY DURHAM FAXMACHINE FLAWLESS FREETHROW GO GUMBO HOUSTON IMPROV KRONOS LIABILITY MEDELLIN MEMPHIS MIDAS NAPOLEAN OZONE PHONECALL PUERTORICO SHINY ULISSES YESMAN
 
 ? How do we make money?
-
-* Buy a t-shirt, hoodie or onesie (for the little ones)! https://cottonbureau.com/p/DH38R3
-
+* Buy a t-shirt, hoodie or onesie (for the little ones)!
+ https://cottonbureau.com/p/DH38R3
 image onesie.png
 
 # Legal Mumbo Jumbo
-
 * The official corporate name is Public Domain Publishing, Inc. Or if you are buying a vanity license plate `PUBS`.
 
 * Our office addresses are:
 
 ## Delaware office
-
 code
  Public Domain Publishing, Inc.
  651 N Broad St.
@@ -74,14 +71,12 @@ code
  Middletown, DE 19709
 
 ## Hawai'i office
-
 code
  Public Domain Publishing, Inc.
  1200 Ala Moana Blvd, Suite #380
  Honolulu, HI, 96814
 
 ## California office
-
 code
  Public Domain Publishing, Inc.
  One World Trade Center
@@ -91,7 +86,6 @@ code
 * Our phone number is 1-808-727-1111
 
 # Mahalo
-
 * Thanks to the web design team at BerkshireHathaway for help with our corporate homepage design.
  https://www.berkshirehathaway.com BerkshireHathaway
 
@@ -99,7 +93,6 @@ code
  https://pldb.com/posts/buildPublicDomain.html #BuildPublicDomain
 
 ## History
-
 - Idea: days ago
  dayjs Math.floor(dayjs().diff(dayjs("2012-12-14"), "day", true))
 - Incorporation Paperwork: days ago
@@ -108,7 +101,5 @@ code
  dayjs Math.floor(dayjs().diff(dayjs("2022-08-28"), "day", true))
 
 * OVERNIGHT SUCCESS.
-
-permalink index.html
 
 import footer.scroll
