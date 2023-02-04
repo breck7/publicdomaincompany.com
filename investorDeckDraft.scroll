@@ -1,20 +1,22 @@
 import header.scroll
-
-startColumns 2
-
 title Public Domain Publishing Inc. Presentation to AdVenture Capitalists
+startColumns 3
 
-# Contents
+# Table of contents
 1. Letter from the founder
+ link #letter
 2. Budget and financial projections
+ link #budget
 3. Details of the current markets, products and business models
+ link #deck
 
 # Letter from the founder
+ id letter
 * We found a path. A path to a new world, radically different and more advanced.
 
 * We are looking for fellow adventurers to help us lead civilization there.
 
-* In this new world the world's computer languages are far faster, more advanced, yet simpler and more human. In this new world every child has access to humanity's best information. And in this new world the Freedom to Publish is guaranteed by an Amendment to the U.S. Constitution. 
+* In this new world computer languages are far faster, more advanced, yet simpler and more human. In this new world every child has access to humanity's best information. And in this new world the Freedom to Publish is guaranteed by an Amendment to the U.S. Constitution. 
 
 * To convince the world this is where we want to be, we are building revolutionary products from this future world here in the present. Our products are different in 3 ways:
 
@@ -30,13 +32,13 @@ title Public Domain Publishing Inc. Presentation to AdVenture Capitalists
 
 * We are looking for the bold. Those with a bias for action. To be considered, send us a term sheet, a wire, or tweet about us publicly.
 
-* Thank you for your time.
+* Thank you for your time. #BuildPublicDomain
 
 quote
- #BuildPublicDomain
  - Breck Yunits, Founder
 
 # Budget and financial projections
+ id budget
 ## Expenses year 1
 table |
  Name|Amount in thousands
@@ -71,6 +73,7 @@ table |
  Total|$4,866
 
 # Details of the current markets, products and business models
+ id deck
 - BRECK TODO
 - Target market
 - Problem Solving
