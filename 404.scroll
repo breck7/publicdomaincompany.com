@@ -1,6 +1,7 @@
 import header.scroll
 permalink 404.html
 title Page not found
+
 startColumns 1
 
 # Sorry, the url you requested was not found.
