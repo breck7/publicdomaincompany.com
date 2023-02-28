@@ -1,0 +1,36 @@
+import header.scroll
+title Real Time Research
+date 09-08-2022
+groups index
+
+startColumns 1
+
+author https://breckyunits.com Breck Yunits
+
+* John Snow is dead.
+ dateline
+
+* But his ideas live on.
+
+* And his relentless spirit flows strong at Public Domain Publishing.
+ https://pd.pub/ Public Domain Publishing 
+
+image images/john-snow.jpeg
+
+# Announcing Real-Time Research
+
+* Research is all fun and games for us researchers. But for our neighbors, friends, and families, sometimes it's a matter of life and death. And every day counts.
+
+* That's why today we announce the launch of _real-time research_.
+
+* build.pldb.com
+ https://build.pldb.com
+
+* Email liability@pldb.com for a call sign and join the beta today.
+
+* #BuildPublicDomain
+
+openGraphImage https://pldb.com/posts/images/john-snow.jpeg
+
+keyboardNav
+import footer.scroll

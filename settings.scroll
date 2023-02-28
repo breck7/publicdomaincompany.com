@@ -1,0 +1,6 @@
+importOnly
+git https://github.com/breck7/pd.pub
+email breck@pldb.com
+baseUrl https://pd.pub/
+viewSourceBaseUrl https://github.com/breck7/pd.pub/blob/main
+rssFeedUrl feed.xml

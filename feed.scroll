@@ -1,0 +1,6 @@
+import settings.scroll
+permalink feed.xml
+printFeed index
+description Our corporate homepage
+title Public Domain Publishing, Inc.
+ hidden

@@ -1,0 +1,30 @@
+import header.scroll
+date 12-18-2022
+groups index
+keyboardNav
+
+title Our Mission
+
+author https://breckyunits.com Breck Yunits
+
+startColumns 2
+
+* A company is just a name, some bank accounts and legal documents, maybe a ticker symbol, and some rows in some databases. None of those things are important to me.
+ dateline
+
+endSnippet
+
+* What is important to me is our mission. *Our mission is to help build a world where every child has access to the whole truth*.
+
+* People are starving for the whole truth. Everywhere they are being locked down, brainwashed with ads, injected with lies. They see the symptoms. They know something is wrong. They want to know the cause.
+
+* The cause is Information (C)ancer, otherwise known as (C)opyright. It has metastasized and spread to all our information organs: books, newspapers, music, radio, television, scientific journals, the web. (C)opywrong laws restrict the truth from spreading, and give a competitive advantage to liars.
+
+* We must disrupt that. This is the war of our times—the war to liberate ideas, to mine, unlock, and share truth, to eradicate Information (C)ancer.
+
+* We are only here because of the heroes who have been fighting this war for decades. The builders behind public domain creations like the World Wide Web. Their mission mission is our mission. Together let's build a world where every child has access to the whole truth.
+
+quote
+ #LiberateIdeas #BuildPublicDomain
+
+import footer.scroll
