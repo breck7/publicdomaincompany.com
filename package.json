@@ -13,6 +13,6 @@
   "author": "Public Domain Publishing Inc.",
   "homepage": "https://publicdomaincompany.com/",
   "dependencies": {
-    "scroll-cli": "^57.0.1"
+    "scroll-cli": "^59.0.0"
   }
 }
