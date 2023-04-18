@@ -4,7 +4,7 @@
  <title>Public Domain Publishing, Inc.</title>
  <link>https://pd.pub/</link>
  <description>Our corporate homepage</description>
- <lastBuildDate>Mon, 06 Mar 2023 21:17:24 +0000</lastBuildDate>
+ <lastBuildDate>Tue, 18 Apr 2023 22:32:25 +0000</lastBuildDate>
  <language>en-us</language>
  <item>
   <title>Start a newspaper francise</title>
@@ -48,5 +48,4 @@
  </item>
 </channel>
 </rss>
-
-<div class="scrollSectionComponent"><h1 hidden="undefined" class="scrollTitleComponent"><a href="feed.xml">Public Domain Publishing, Inc.</a></h1>
+<div class="scrollSection"><h1 hidden="undefined" class="scrollTitle"><a href="feed.xml">Public Domain Publishing, Inc.</a></h1></div>
