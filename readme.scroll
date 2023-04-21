@@ -29,32 +29,34 @@ code
 * Yes.
  link blog.html Yes
 
-? What do we make?
-## CSV Files
-* Our primary business is making public domain databases (that compile to CSV files). Our first two are PLDB and CancerDB.
+# What do we make?
+* Our primary business is making public domain computable encyclopedias. Our first two are PLDB and CancerDB.
  https://pldb.com/ PLDB
  https://cancerdb.com/ CancerDB
+
 * PLDB helps programming language designers build the next great programming language.
 * CancerDB helps cancer researchers build the next great cure.
-
-## Newspapers
-* We also make local public domain newspapers. Our first two are The Long Beach Pub and The Hawai'i Pub.
- https://longbeach.pub/ The Long Beach Pub
- http://hawaii.pub/ The Hawai'i Pub
-
-## Software
-* We also make blogging software called Scroll, a data visualization studio called Ohayo, and a music label called Music of a People.
- https://scroll.pub/ Scroll
- https://v20.ohayo.computer/ Ohayo
- https://musicofapeople.com/ Music of a People
+* These projects are powered by our database software TrueBase and our blogging software Scroll.
+ https://truebase.pub TrueBase
+ https://scroll.pub Scroll
 
 ? What is our mission?
 * Every child with their own copy of humanity's best information.
 
 ? How do we make money?
-* Buy a t-shirt, hoodie or onesie (for the little ones)!
+* Anyone can sponsor research on CancerDB.com or PLDB.com.
+ https://cancerdb.com/pages/sponsor.html CancerDB.com
+ https://pldb.com/pages/challenges.html PLDB.com
+* You can also buy a t-shirt, hoodie or onesie (for the little ones)!
  https://cottonbureau.com/p/DH38R3
 image onesie.png
+
+## Side projects
+* We have some fun side projects including a data visualization studio called Ohayo, a music label called Music of a People, and the local print-at-home monthly newspapers The Long Beach Pub and The Hawai'i Pub.
+ https://v20.ohayo.computer/ Ohayo
+ https://musicofapeople.com/ Music of a People
+ https://longbeach.pub/ The Long Beach Pub
+ http://hawaii.pub/ The Hawai'i Pub
 
 # Legal Mumbo Jumbo
 * The official corporate name is Public Domain Publishing, Inc. Or if you are buying a vanity license plate `PUBS`.
