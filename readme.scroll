@@ -1,28 +1,29 @@
-import header.scroll
-title Public Domain Publishing Inc.
 description Our corporate homepage
 permalink index.html
+
+import header.scroll
+title Public Domain Publishing Inc.
 
 thinColumns 4
 
 image logoV1.png
 
 code
-                                    /-  --------   
-                                 /--           |   
-                              /--              |   
-         |                 /--                 |   
-         |              /--                    |   
-         |           /--                   /-- \   
-       - |  ---   /--                 /----     \  
-     -/  |      --               /----           \ 
+                                    /-  --------
+                                 /--           |
+                              /--              |
+         |                 /--                 |
+         |              /--                    |
+         |           /--                   /-- \
+       - |  ---   /--                 /----     \
+     -/  |      --               /----           \
    -/                        /---                 -
-           --           /----                      
-  |      /   \--     ---                           
-   \    /       \-                                 
-   |   -            \                              
-                     \                             
-                      -                               
+           --           /----
+  |      /   \--     ---
+   \    /       \-
+   |   -            \
+                     \
+                      -
 * 40,000 years ago somebody drew a bull in a cave and it's still visible today (the image above is a reproduction). We too want to make publications that last.
 
 # Do we have a blog?

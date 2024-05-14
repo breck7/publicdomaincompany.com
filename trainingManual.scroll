@@ -1,13 +1,12 @@
-import header.scroll
+author https://breckyunits.com Breck Yunits
 date 12-18-2022
 groups index
+openGraphImage trainingManual.jpg
+
+import header.scroll
 keyboardNav
 
 title Pub Training Manual
-
-author https://breckyunits.com Breck Yunits
-
-openGraphImage trainingManual.jpg
 
 thinColumns 4
 

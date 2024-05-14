@@ -1,8 +1,8 @@
-replace THE_CONTRACTOR Joe Schmoe
-replace TRIAL_PERIOD 4 weeks
-replace THE_START_DATE 2/26/2023
-replace THE_RATE $20
 replace MAX_HOURS_PER_WEEK 10
+replace THE_CONTRACTOR Joe Schmoe
+replace THE_RATE $20
+replace THE_START_DATE 2/26/2023
+replace TRIAL_PERIOD 4 weeks
 
 # Contractor Agreement
 * This agreement is between Breck Yunits and Public Domain Publishing Inc. (collectively the "company") and THE_CONTRACTOR (the "contractor").

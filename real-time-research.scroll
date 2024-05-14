@@ -1,11 +1,12 @@
-import header.scroll
-title Real Time Research
+author https://breckyunits.com Breck Yunits
 date 09-08-2022
 groups index
+openGraphImage https://pldb.com/posts/images/john-snow.jpeg
+
+import header.scroll
+title Real Time Research
 
 thinColumns 1
-
-author https://breckyunits.com Breck Yunits
 
 * John Snow is dead.
  dateline
@@ -29,8 +30,6 @@ image images/john-snow.jpeg
 * Email liability@pldb.com for a call sign and join the beta today.
 
 * #BuildPublicDomain
-
-openGraphImage https://pldb.com/posts/images/john-snow.jpeg
 
 keyboardNav
 import footer.scroll

@@ -1,6 +1,6 @@
 importOnly
-git https://github.com/breck7/publicdomaincompany.com
-email breck@pldb.com
 baseUrl https://publicdomaincompany.com/
-viewSourceBaseUrl https://github.com/breck7/publicdomaincompany.com/blob/main
+email breck@pldb.com
+git https://github.com/breck7/publicdomaincompany.com
 rssFeedUrl feed.xml
+viewSourceBaseUrl https://github.com/breck7/publicdomaincompany.com/blob/main

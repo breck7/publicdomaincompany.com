@@ -1,7 +1,9 @@
-import header.scroll
-title #Rejected
 date 09-11-2022
 groups index
+openGraphImage https://dfon51l7zffjj.cloudfront.net/uploads/company/header_media_photo/80114/standard_cropped_screenshot.jpg
+
+import header.scroll
+title #Rejected
 
 thinColumns 1
 
@@ -11,8 +13,6 @@ youTube https://www.youtube.com/embed/yogvgmK2L4g
 
 # #WeFunder
  https://wefunder.com/thepublicdomainpublishingcompany #WeFunder
-
-openGraphImage https://dfon51l7zffjj.cloudfront.net/uploads/company/header_media_photo/80114/standard_cropped_screenshot.jpg
 
 keyboardNav
 import footer.scroll
