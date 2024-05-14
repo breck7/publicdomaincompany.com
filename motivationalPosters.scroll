@@ -3,13 +3,13 @@ title Motivational posters
 date 2021-03-06
 groups index
 
-startColumns 2
+thinColumns 2
 
 * Motivational posters are the key to our success.
  dateline
 
-motivationalPosterMemeNode
- extends quoteNode
+motivationalPosterMemeParser
+ extends quoteParser
  crux motivationalPosterMeme
 
 motivationalPosterMeme
