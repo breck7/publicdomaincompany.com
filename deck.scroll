@@ -29,8 +29,8 @@ thinColumns 3
 
 * This will be a long journey. It is not clear whether it will take four years or fourteen. Along the way we will require the efforts of a brilliant and courageous team. We will require innovative leaders across engineering, finance, sales, marketing, legal, governmental, and more.
 
-* Our first major products are PLDB.com and CancerDB.com, but we will launch others along the way, and continually innovate to generate not only better products but better business models.
- https://pldb.com PLDB.com
+* Our first major products are PLDB.io and CancerDB.com, but we will launch others along the way, and continually innovate to generate not only better products but better business models.
+ https://pldb.io PLDB.io
  https://cancerdb.com CancerDB.com
 
 * We do not expect an easy fight, and we expect our competition to come at us from every angle. But we will not cower, and we will not stop building.
@@ -96,10 +96,10 @@ table |
 * CancerDB.com: (Not yet launched) - Traffic
  https://cancerdb.com/ CancerDB.com
  https://cancerdb.com/nginxDailyAll.html Traffic
-* PLDB.com: Contributors - Traffic
- https://pldb.com/ PLDB.com
+* PLDB.io: Contributors - Traffic
+ https://pldb.io/ PLDB.io
  https://github.com/breck7/pldb/graphs/contributors Contributors
- https://pldb.com/trafficTrends.html Traffic
+ https://pldb.io/trafficTrends.html Traffic
 * Scroll.pub: Downloads
  https://scroll.pub/ Scroll.pub
  https://www.npmjs.com/package/scroll-cli Downloads
