@@ -18,7 +18,7 @@ endSnippet
  https://pldb.com/languages/bash.html bash
 
 bashCode
- git clone https://github.com/breck7/pd.pub.git; git clone https://github.com/breck7/longbeach.pub.git; git clone https://github.com/breck7/CancerDB.git; git clone https://github.com/breck7/scroll.git; git clone https://github.com/breck7/simoji.git; git clone https://github.com/breck7/ohayo.git; git clone https://github.com/breck7/jtree.git; git clone https://github.com/breck7/pldb.git; git clone https://github.com/breck7/MusicOfAPeople.git;
+ git clone https://github.com/breck7/publicdomaincompany.com.git; git clone https://github.com/breck7/longbeach.pub.git; git clone https://github.com/breck7/CancerDB.git; git clone https://github.com/breck7/scroll.git; git clone https://github.com/breck7/simoji.git; git clone https://github.com/breck7/ohayo.git; git clone https://github.com/breck7/jtree.git; git clone https://github.com/breck7/pldb.git; git clone https://github.com/breck7/MusicOfAPeople.git;
 
 image hacker.jpg
  caption Sources say this hacker, seen here potentially escaping to Venice via Gondola, wrote the code that allowed anyone to download a copy of all the company's source code.
@@ -26,6 +26,6 @@ image hacker.jpg
 * The company is currently investigating reports that the hackers were complaining about long download times. Updates will be posted here.
  https://github.com/breck7/pldb/issues/189 long download times.
 
-openGraphImage https://pd.pub/hacker.jpg
+openGraphImage hacker.jpg
 keyboardNav
 import footer.scroll
