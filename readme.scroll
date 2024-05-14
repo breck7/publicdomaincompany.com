@@ -1,28 +1,29 @@
-import header.scroll
-title Public Domain Publishing Inc.
 description Our corporate homepage
 permalink index.html
 
-startColumns 4
+import header.scroll
+title Public Domain Publishing Inc.
+
+thinColumns 4
 
 image logoV1.png
 
 code
-                                    /-  --------   
-                                 /--           |   
-                              /--              |   
-         |                 /--                 |   
-         |              /--                    |   
-         |           /--                   /-- \   
-       - |  ---   /--                 /----     \  
-     -/  |      --               /----           \ 
+                                    /-  --------
+                                 /--           |
+                              /--              |
+         |                 /--                 |
+         |              /--                    |
+         |           /--                   /-- \
+       - |  ---   /--                 /----     \
+     -/  |      --               /----           \
    -/                        /---                 -
-           --           /----                      
-  |      /   \--     ---                           
-   \    /       \-                                 
-   |   -            \                              
-                     \                             
-                      -                               
+           --           /----
+  |      /   \--     ---
+   \    /       \-
+   |   -            \
+                     \
+                      -
 * 40,000 years ago somebody drew a bull in a cave and it's still visible today (the image above is a reproduction). We too want to make publications that last.
 
 # Do we have a blog?
@@ -31,32 +32,28 @@ code
 
 # What do we make?
 * Our primary business is making public domain computable encyclopedias. Our first two are PLDB and CancerDB.
- https://pldb.com/ PLDB
+ https://pldb.io/ PLDB
  https://cancerdb.com/ CancerDB
 
 * PLDB helps programming language designers build the next great programming language.
 * CancerDB helps cancer researchers build the next great cure.
-* These projects are powered by our database software TrueBase and our blogging software Scroll.
- https://truebase.pub TrueBase
+* These projects are powered by our language called Scroll.
  https://scroll.pub Scroll
 
 ? What is our mission?
 * Every child with their own copy of humanity's best information.
 
 ? How do we make money?
-* Anyone can sponsor research on CancerDB.com or PLDB.com.
- https://cancerdb.com/pages/sponsor.html CancerDB.com
- https://pldb.com/pages/challenges.html PLDB.com
-* You can also buy a t-shirt, hoodie or onesie (for the little ones)!
+* Buy a t-shirt, hoodie or onesie (for the little ones)!
  https://cottonbureau.com/p/DH38R3
 image onesie.png
 
 ## Side projects
 * We have some fun side projects including a data visualization studio called Ohayo, a music label called Music of a People, and the local print-at-home monthly newspapers The Long Beach Pub and The Hawai'i Pub.
  https://v20.ohayo.computer/ Ohayo
- https://musicofapeople.com/ Music of a People
+ https://musicofapeople.publicdomaincompany.com/ Music of a People
  https://longbeach.pub/ The Long Beach Pub
- http://hawaii.pub/ The Hawai'i Pub
+ http://hawaii.publicdomaincompany.com/ The Hawai'i Pub
 
 # Legal Mumbo Jumbo
 * The official corporate name is Public Domain Publishing, Inc. Or if you are buying a vanity license plate `PUBS`.
@@ -90,7 +87,7 @@ code
  https://www.berkshirehathaway.com BerkshireHathaway
 
 ## #BuildPublicDomain
- https://pldb.com/posts/buildPublicDomain.html
+ https://pldb.io/posts/buildPublicDomain.html
 
 ## History
 - Idea: days ago

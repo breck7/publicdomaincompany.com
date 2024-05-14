@@ -1,18 +1,18 @@
 {
-  "name": "PD.pub",
+  "name": "PublicDomainCompany.com",
   "version": "1.0.0",
   "description": "Our corporate homepage, blog, and legal department's hard drive.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/breck7/pd.pub.git"
+    "url": "git+https://github.com/breck7/publicdomaincompany.com.git"
   },
   "scripts": {
     "build": "scroll build",
     "open": "open index.html"
   },
   "author": "Public Domain Publishing Inc.",
-  "homepage": "https://pd.pub/",
+  "homepage": "https://publicdomaincompany.com/",
   "dependencies": {
-    "scroll-cli": "^69.2.0"
+    "scroll-cli": "^87.0.0"
   }
 }

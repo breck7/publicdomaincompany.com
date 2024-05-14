@@ -1,13 +1,13 @@
-replace THE_CONTRACTOR Joe Schmoe
-replace TRIAL_PERIOD 4 weeks
-replace THE_START_DATE 2/26/2023
-replace THE_RATE $20
 replace MAX_HOURS_PER_WEEK 10
+replace THE_CONTRACTOR Joe Schmoe
+replace THE_RATE $20
+replace THE_START_DATE 2/26/2023
+replace TRIAL_PERIOD 4 weeks
 
 # Contractor Agreement
 * This agreement is between Breck Yunits and Public Domain Publishing Inc. (collectively the "company") and THE_CONTRACTOR (the "contractor").
 * The parties agree to a trial agreement for a period of TRIAL_PERIOD beginning on THE_START_DATE.
-* The company has a range of products (the "products") including, but not limited to PLDB.com and Scroll.pub.
+* The company has a range of products (the "products") including, but not limited to PLDB.io and Scroll.pub.
 * The contractor agrees to contribute code, data, and other help to these products. The contractor agrees to work on issues created on the GitHub, or communicate to the company if in their good judgement they have ideas for issues with higher impact for the company.
 * All work done is public domain.
 * There is no confidentiality expected of either party.

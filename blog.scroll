@@ -1,7 +1,8 @@
+description Our official company blog
+
 import header.scroll
 
 title The Public Domain Publishing Inc. Blog
-description Our official company blog
 snippets index
 
 import footer.scroll

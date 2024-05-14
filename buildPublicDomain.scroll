@@ -1,11 +1,12 @@
-import header.scroll
-title #BuildPublicDomain
+author https://breckyunits.com Breck Yunits
 date 09-04-2022
 groups index
+openGraphImage https://pldb.io/posts/images/buildPublicDomain.png
 
-author https://breckyunits.com Breck Yunits
+import header.scroll
+title #BuildPublicDomain
 
-startColumns 1
+thinColumns 1
 
 * It all started with 1984.
  dateline
@@ -28,8 +29,6 @@ youTube https://www.youtube.com/embed/-z4NS2zdrZc
 youTube https://www.youtube.com/embed/CYPYZnVQoLg
 
 * _v0.1_
-
-openGraphImage https://pldb.com/posts/images/buildPublicDomain.png
 
 keyboardNav
 import footer.scroll
