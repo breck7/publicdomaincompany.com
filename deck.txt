@@ -1,16 +1,13 @@
-Public Domain Publishing Inc. Presentation to AdVenture Capitalists
-===================================================================
-
 Table of contents
 =================
 1. Letter from the founder
- https://publicdomaincompany.com/#letter
+ https://publicdomaincompany.com/#letter Letter from the founder
 2. Budget and financial projections
- https://publicdomaincompany.com/#budget
+ https://publicdomaincompany.com/#budget Budget and financial projections
 3. Details of the current markets, products and business models
- https://publicdomaincompany.com/#deck
+ https://publicdomaincompany.com/#deck Details of the current markets, products and business models
 4. FAQ
- https://publicdomaincompany.com/#faq
+ https://publicdomaincompany.com/#faq FAQ
 
 Letter from the founder
 =======================
@@ -29,8 +26,8 @@ To convince the world this is where we want to be, we are building revolutionary
 This will be a long journey. It is not clear whether it will take four years or fourteen. Along the way we will require the efforts of a brilliant and courageous team. We will require innovative leaders across engineering, finance, sales, marketing, legal, governmental, and more.
 
 Our first major products are PLDB.io and CancerDB.com, but we will launch others along the way, and continually innovate to generate not only better products but better business models.
- https://pldb.io
- https://cancerdb.com
+ https://pldb.io PLDB.io
+ https://cancerdb.com CancerDB.com
 
 We do not expect an easy fight, and we expect our competition to come at us from every angle. But we will not cower, and we will not stop building.
 
@@ -60,32 +57,18 @@ Total|$2,023
 
 Revenue projections year 1
 ==========================
-Month|Amount in thousands
-1|2
-3|4
-3|10
-4|50
-5|100
-6|150
-7|250
-8|300
-9|500
-10|1,000
-11|1,200
-12|1,300
-Total|$4,866
 
 Details of the current markets, products and business models
 ============================================================
 Revenue model
 =============
 Our primary revenue product will be CancerDB.com and the model is something never done before. Launch is soon.
- https://cancerdb.com
+ https://cancerdb.com CancerDB.com
 
 Market size opportunity
 =======================
 The National Cancer Institute estimates over $200 Billion is spent on Cancer care in the USA each year. The results are poor. We will lower the death rate from cancer in the USA 50% by 2027. We believe we could generate $1 Billion in revenue to do that.
- https://progressreport.cancer.gov/after/economic_burden
+ https://progressreport.cancer.gov/after/economic_burden $200 Billion
 
 Marketing/sales strategy
 ========================
@@ -93,29 +76,27 @@ We are already selling. Our model and go to market strategy will be visible post
 
 Traction
 ========
-CancerDB.com: (Not yet launched) - Traffic
- https://cancerdb.com/
- https://cancerdb.com/nginxDailyAll.html
-PLDB.io: Contributors - Traffic
- https://pldb.io/
- https://github.com/breck7/pldb/graphs/contributors
- https://pldb.io/trafficTrends.html
+CancerDB.com: (Not yet launched)
+ https://cancerdb.com/ CancerDB.com
+PLDB.io: Contributors
+ https://pldb.io/ PLDB.io
+ https://github.com/breck7/pldb/graphs/contributors Contributors
 Scroll.pub: Downloads
- https://scroll.pub/
- https://www.npmjs.com/package/scroll-cli
+ https://scroll.pub/ Scroll.pub
+ https://www.npmjs.com/package/scroll-cli Downloads
 
 Team
 ====
 About 40 people have actively worked with us for a month or more, between regular volunteers and paid contributors. About ~7 of these people have urgently needed skillsets to bring on full time.
 Our founder is Breck Yunits, a prolific angel investor who in the past was Senior Software Engineer at Our World in Data, Research Associate at University of Hawai'i Cancer Center, Software Engineer at Microsoft, Co-founder of Nudge Inc. (acqui-hired by Microsoft in 2014), Mozilla WebFwd Alum, 2x YCombinator alum, former software engineer at Lab Zero, and 2007 B.S. in Economics from Duke University.
- https://breckyunits.com/
- https://breckyunits.com/an-angel-investors-data.html
- https://ourworldindata.org/
- https://www.uhcancercenter.org/
- https://microsoft.com/
- https://breckyunits.com/nudgepad-an-ide-in-your-browser.html
- https://labzero.com/
- https://duke.edu/
+ https://breckyunits.com/ Breck Yunits
+ https://breckyunits.com/an-angel-investors-data.html angel investor
+ https://ourworldindata.org/ Our World in Data
+ https://www.uhcancercenter.org/ University of Hawai'i Cancer Center
+ https://microsoft.com/ Microsoft
+ https://breckyunits.com/nudgepad-an-ide-in-your-browser.html Nudge Inc.
+ https://labzero.com/ Lab Zero
+ https://duke.edu/ Duke University
 
 FAQ
 ===
@@ -125,9 +106,9 @@ This is going to be hard. We need allies and a war chest.
 
 As an investor how will I get my money back?
 ============================================
-We plan to direct list on OTCQB in 2023. The founder will be subject to a 4-year lockup and initial investors will be subject to a 2 year lockup. Once our main objectives are achieved, the founder plans to retire to run his lifestyle business, FunnyTombstones.com, and at that point the shareholders and employees can decide to monetize the company as they see fit, selling cigarettes or dolphin meat for all he cares. It is hoped that Public Domain Publishing Inc. survives long enough to see itself become the villain.
- https://www.investopedia.com/terms/o/otcqb.asp
- https://FunnyTombstones.com
+We plan to direct list on OTCQB in 202X. The founder will be subject to a 4-year lockup and initial investors will be subject to a 2 year lockup. Once our main objectives are achieved, the founder plans to retire to run his lifestyle business, FunnyTombstones.com, and at that point the shareholders and employees can decide to monetize the company as they see fit, selling cigarettes or dolphin meat for all he cares. It is hoped that Public Domain Publishing Inc. survives long enough to see itself become the villain.
+ https://www.investopedia.com/terms/o/otcqb.asp OTCQB
+ https://FunnyTombstones.com FunnyTombstones.com
 
 Will there be another fundraising round before the Direct Listing?
 ==================================================================
@@ -160,3 +141,5 @@ We have various other products experiencing product-market fit and will figure o
 What is the company's view on risk?
 ===================================
 We will continue to bet the entire company over and over again on the next big order-of-magnitude risk until our objectives are accomplished. If you do the math, this means we will eventually be a company measured in billions or go bust. A sensible hedging strategy for our investors might be to sell ~10% of holdings every time we achieve a ~10x increase in size.
+
+Built with Scroll v130.1.1

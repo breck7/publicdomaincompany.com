@@ -1,90 +1,46 @@
-author https://breckyunits.com Breck Yunits
+authors Breck Yunits
+ https://breckyunits.com
 date 12-18-2022
-groups index
 openGraphImage trainingManual.jpg
-
-import header.scroll
-keyboardNav
-
 title Pub Training Manual
+
+groups index
+
+header.scroll
+keyboardNav
 
 thinColumns 4
 
-* Aloha! Welcome to the team! We don't have titles here. We have a mission, customers, and jobs to be done.
+Aloha! Welcome to the team! We don't have titles here. We have a mission, customers, and jobs to be done.
  dateline
  link ourMission.html mission
 
-html
- <div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/b7cc2f7ca02649a5af00ebdd4f941ef2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/b7cc2f7ca02649a5af00ebdd4f941ef2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-endSnippet
+***
 
-* Everyone here is great at a least one thing—that's why you are here. You are expected to excel at that one thing, but also to continue to grow your own abilities so you can help the team with more tasks as needed. You are also expected to always be thinking of how you can make yourself dispensable - by mentoring, recruiting, automating, et cetera. Your job in addition to shipping your tasks is to make sure we can succeed in our mission without you.
+Everyone here is great at a least one thing—that's why you are here. You are expected to excel at that one thing, but also to continue to grow your own abilities so you can help the team with more tasks as needed. You are also expected to always be thinking of how you can make yourself dispensable - by mentoring, recruiting, automating, et cetera. Your job in addition to shipping your tasks is to make sure we can succeed in our mission without you.
 
 # Tasks
+Here are the main things to be done. The more skills you learn the more work we will have for you.
 
-* Here are the main things to be done. The more skills you learn the more work we will have for you.
-
-## CancerDB.com Content
-
-- Treatment data entry
-- Code reviews
-- Interviews, blog post, and list content
-- Refining the CancerDB Grammar
-
-## PLDB.io Content
-
+## PLDB.io Customer Service
 - Programming language data entry
-- Code reviews
 - Interviews, blog post, and list content
-- Refining the PLDB Grammar
-
-## Sales
-
-- Selling cells for CancerDB.com
-- Selling cells for PLDB.io
+- Selling to raise funds for PLDB.io
 
 ## CancerDB.com Customer Service
-
 - Answering phone calls, emails, and in person inquiries
 - Going above and beyond to provide one on one customer service
+- Selling to raise funds for CancerDB.com
+
+## Scroll
+- Refining Parsers
+- Improving Scroll
 
 ## Marketing team
-
 - Delivering original humor pieces to our web and social media accounts
 - Promoting our work to existing media outlets
 - Fighting censorship in all its locations and forms
 
-## MusicOfAPeople.com content
-
-- Getting new public domain music added to MusicOfAPeople.com
-- Helping our artists accelerate their careers
-
-## LongBeach.pub content
-
-- Writing, publishing and marketing articles to serve residents of Long Beach, California
-
-## Tree Notation Core Team
-
-- Ignoring all tech fads and solving the math and code challenges to power the next decades of computing
-- Refining the Grammar Language
-- Improving TreeBase
-- Improving Scroll
-- Improving JTree Javascript SDK
-- Writing Tree Notation libraries in other languages
-- Building next generation 2 and 3 dimensional development environments
-- Getting existing editors like Sublime Text and VS Code to have first class support for Tree Languages
-- Getting web browsers to support Tree Notation natively and enhancing all web forms to support Tree Notation copy pasting abilities
-
-## Dev team
-
-- Keeping our Digital Ocean servers running
-- Managing our ever growing list of domains and projects
-- Improving build and deployment time across all our products
-- Improving page speed and simplifying and improving our HTML and CSS across all products.
-
-##  Crypto dev team
-
-- Improving the speed, intelligence, and transparency of our finance and banking infra across all our activities
-
-import footer.scroll
+footer.scroll

@@ -1,30 +1,32 @@
-author https://breckyunits.com Breck Yunits
+authors Breck Yunits
+ https://breckyunits.com
 date 12-18-2022
+title Our Mission
+
 groups index
 
-import header.scroll
+header.scroll
+leftRightButtons
 keyboardNav
-
-title Our Mission
 
 thinColumns 2
 
-* A company is just a name, some bank accounts and legal documents, maybe a ticker symbol, and some rows in some databases. None of those things are important to me.
+A company is just a name, some bank accounts and legal documents, maybe a ticker symbol, and some rows in some databases. None of those things are important to me.
  dateline
 
-endSnippet
+***
 
-* What is important to me is our mission. *Our mission is to help build a world where every child has access to the whole truth*.
+What is important to me is our mission. *Our mission is to get us to a world where every human gets their own copy of humanity's most intelligent information*.
 
-* People are starving for the whole truth. Everywhere they are being locked down, brainwashed with ads, injected with lies. They see the symptoms. They know something is wrong. They want to know the cause.
+People are starving for the whole truth. Everywhere they are being locked down, brainwashed with ads, injected with lies. They see the symptoms. They know something is wrong. They want to know the cause.
 
-* The cause is Information (C)ancer, otherwise known as (C)opyright. It has metastasized and spread to all our information organs: books, newspapers, music, radio, television, scientific journals, the web. (C)opywrong laws restrict the truth from spreading, and give a competitive advantage to liars.
+The cause is Information (C)ancer, otherwise known as (C)opyright. It has metastasized and spread to all our information organs: books, newspapers, music, radio, television, scientific journals, the web. (C)opywrong laws restrict the truth from spreading, and give a competitive advantage to liars.
 
-* We must disrupt that. This is the war of our times—the war to liberate ideas, to mine, unlock, and share truth, to eradicate Information (C)ancer.
+We must disrupt that. This is the war of our times—the war to liberate ideas, to mine, unlock, and share truth, to eradicate Information (C)ancer.
 
-* We are only here because of the heroes who have been fighting this war for decades. The builders behind public domain creations like the World Wide Web. Their mission mission is our mission. Together let's build a world where every child has access to the whole truth.
+We are only here because of the heroes who have been fighting this war for decades. The builders behind public domain creations like the World Wide Web. Their mission mission is our mission. Together let's build a world where every child has access to the whole truth.
 
 quote
  #LiberateIdeas #BuildPublicDomain
 
-import footer.scroll
+footer.scroll

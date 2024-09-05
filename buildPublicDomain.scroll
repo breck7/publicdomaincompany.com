@@ -1,34 +1,31 @@
-author https://breckyunits.com Breck Yunits
 date 09-04-2022
-groups index
 openGraphImage https://pldb.io/posts/images/buildPublicDomain.png
-
-import header.scroll
 title #BuildPublicDomain
+
+author https://breckyunits.com Breck Yunits
+groups index
+
+header.scroll
 
 thinColumns 1
 
-* It all started with 1984.
+It all started with 1984.
  dateline
  https://archive.org/details/1983-30sec 1984
 
-youTube https://www.youtube.com/embed/VtvjbmoDx-I
+youtube https://www.youtube.com/embed/VtvjbmoDx-I
 
-* Tech used to have a message that sent a chill up your spine.
+Tech used to have a message that sent a chill up your spine.
 
-youTube https://www.youtube.com/embed/-z4NS2zdrZc
+youtube https://www.youtube.com/embed/-z4NS2zdrZc
 
-* It's been too long since we had one.
+It's been too long since we had one.
 
-* We may not have a big production budget. But we do have _you_. And _you_ know how to build. We've committed v1. We need you to commit v2.
-
-* Today is the dawn of a new message:
+Today is the dawn of a new message:
 
 # #BuildPublicDomain
 
-youTube https://www.youtube.com/embed/CYPYZnVQoLg
-
-* _v0.1_
+youtube https://www.youtube.com/embed/CYPYZnVQoLg
 
 keyboardNav
-import footer.scroll
+footer.scroll

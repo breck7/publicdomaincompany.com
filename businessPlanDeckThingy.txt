@@ -1,6 +1,3 @@
-Business Plan Deck Thing
-========================
-
 MADE WITH BUSINESS PLAN STUDIO 1999 (SHAREWARE)
 ===============================================
 
@@ -67,3 +64,5 @@ No loyalty to our team and ready to let anyone go at any time.
 But not even letting people go since we don't have any agreements just telling them we will no longer pay them.
 
 Propensity of our founder to focus on adding, not reducing, new risk factors.
+
+Built with Scroll v130.1.1

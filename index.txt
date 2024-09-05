@@ -1,6 +1,3 @@
-Public Domain Publishing Inc.
-=============================
-
 [Image Omitted]
 
                                    /-  --------
@@ -23,18 +20,18 @@ Public Domain Publishing Inc.
 Do we have a blog?
 ==================
 Yes.
- https://publicdomaincompany.com/blog.html
+ https://publicdomaincompany.com/blog.html Yes
 
 What do we make?
 ================
 Our primary business is making public domain computable encyclopedias. Our first two are PLDB and CancerDB.
- https://pldb.io/
- https://cancerdb.com/
+ https://pldb.io/ PLDB
+ https://cancerdb.com/ CancerDB
 
 PLDB helps programming language designers build the next great programming language.
 CancerDB helps cancer researchers build the next great cure.
 These projects are powered by our language called Scroll.
- https://scroll.pub
+ https://scroll.pub Scroll
 
 What is our mission?
 ====================
@@ -43,16 +40,8 @@ Every child with their own copy of humanity's best information.
 How do we make money?
 =====================
 Buy a t-shirt, hoodie or onesie (for the little ones)!
- https://cottonbureau.com/p/DH38R3
+ https://cottonbureau.com/p/DH38R3 Buy a t-shirt, hoodie or onesie (for the little ones)!
 [Image Omitted]
-
-Side projects
-=============
-We have some fun side projects including a data visualization studio called Ohayo, a music label called Music of a People, and the local print-at-home monthly newspapers The Long Beach Pub and The Hawai'i Pub.
- https://v20.ohayo.computer/
- https://musicofapeople.publicdomaincompany.com/
- https://longbeach.pub/
- http://hawaii.publicdomaincompany.com/
 
 Legal Mumbo Jumbo
 =================
@@ -85,11 +74,11 @@ Our phone number is 1-808-727-1111
 Mahalo
 ======
 Thanks to the web design team at BerkshireHathaway for help with our corporate homepage design.
- https://www.berkshirehathaway.com
+ https://www.berkshirehathaway.com BerkshireHathaway
 
 #BuildPublicDomain
- https://pldb.io/posts/buildPublicDomain.html
-================================================================
+ https://pldb.io/posts/buildPublicDomain.html #BuildPublicDomain
+===================================================================================
 
 History
 =======
@@ -98,3 +87,5 @@ History
 - First product launch: days ago
 
 OVERNIGHT SUCCESS.
+
+Built with Scroll v130.1.1

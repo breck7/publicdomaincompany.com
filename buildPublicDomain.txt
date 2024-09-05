@@ -1,20 +1,18 @@
-#BuildPublicDomain
-==================
+author https://breckyunits.com Breck Yunits
+groups index
 
 September 4, 2022
 
 It all started with 1984.
- https://archive.org/details/1983-30sec
+ https://archive.org/details/1983-30sec 1984
 
 Tech used to have a message that sent a chill up your spine.
 
 It's been too long since we had one.
-
-We may not have a big production budget. But we do have _you_. And _you_ know how to build. We've committed v1. We need you to commit v2.
 
 Today is the dawn of a new message:
 
 #BuildPublicDomain
 ==================
 
-_v0.1_
+Built with Scroll v130.1.1

@@ -1,11 +1,11 @@
 date 1-18-2023
-groups index
 openGraphImage columbianCentinel.jpg
-
-import header.scroll
-keyboardNav
-
 title Start a newspaper francise
+
+groups index
+
+header.scroll
+keyboardNav
 
 thinColumns 2
 
@@ -13,35 +13,35 @@ thinColumns 2
 
 ## Fix the discourse in your local community and accelerate the economy by launching a public domain, print-at-home daily newspaper
 
-* Earlier this month Public Domain Publishing launched two new local newspapers: The Long Beach Pub and The Hawai'i Pub.  The papers use a breakthrough technology stack unlike any the world has seen before. Even in their early iterations, the response to the papers has been overwhelming. Already people are launching newspapers using the same software across the world.
+Earlier this month Public Domain Publishing launched two new local newspapers: The Long Beach Pub and The Hawai'i Pub.  The papers use a breakthrough technology stack unlike any the world has seen before. Even in their early iterations, the response to the papers has been overwhelming. Already people are launching newspapers using the same software across the world.
  dateline
  https://longbeach.pub/ The Long Beach Pub
  http://hawaii.publicdomaincompany.com/ The Hawai'i Pub
  https://publicdomaincompany.com/ Public Domain Publishing
 
-* In an effort to more effectively bring this breakthrough technology and business model to communities around the world, Public Domain Publishing Inc. is launching a new newspaper franchise program. Entrepreneurs interested in starting their own newspaper business can email franchise@publicdomaincompany.com for a price sheet.
+In an effort to more effectively bring this breakthrough technology and business model to communities around the world, Public Domain Publishing Inc. is launching a new newspaper franchise program. Entrepreneurs interested in starting their own newspaper business can email franchise@publicdomaincompany.com for a price sheet.
 
-endSnippet
+***
 
-* Public Domain Publishing focuses on the software, partners are free to focus on their community and their content. Partners get 24/7 software support with new features prioritized to their needs. They also get a regional exclusive with extensive online marketing help from Public Domain Publishing's large and growing network of properties.
+Public Domain Publishing focuses on the software, partners are free to focus on their community and their content. Partners get 24/7 software support with new features prioritized to their needs. They also get a regional exclusive with extensive online marketing help from Public Domain Publishing's large and growing network of properties.
 
-* Partners can focus on the human relationships that are essential to a thriving newspaper. They can dedicate their time to their readers, their sources, and their content. Technology and delivery is handled by Public Domain Publishing.
+Partners can focus on the human relationships that are essential to a thriving newspaper. They can dedicate their time to their readers, their sources, and their content. Technology and delivery is handled by Public Domain Publishing.
 
-* Partners can choose various business models, including having Public Domain Publishing handle subscriptions, billing, and fulfillment.
+Partners can choose various business models, including having Public Domain Publishing handle subscriptions, billing, and fulfillment.
 
-# Breakthrough technology will revolutionize the 500 year old newspaper industry
-image columbianCentinel.jpeg
+Breakthrough technology will revolutionize the 500 year old newspaper industry
+columbianCentinel.jpeg
  caption A photo of one of the papers in our archive: the January 31, 1795 edition of the Columbian Centinel, when the president of the United States was George Washington.
   https://en.wikipedia.org/wiki/Columbian_Centinel Columbian Centinel
-* While some thought the 500 year old newspaper industry was on its last legs, the revolutionary software from Public Domain Publishing will ensure it has at least another 500 years ahead of it. Public Domain Publishing invented the most important fundamental technology in decades, which is already revolutionizing the fields of computer science and cancer research. Building on that technology, the company developed Scroll, a breakthrough new language that leaves all previous technologies used by newspapers in the dust.
+While some thought the 500 year old newspaper industry was on its last legs, the revolutionary software from Public Domain Publishing will ensure it has at least another 500 years ahead of it. Public Domain Publishing invented the most important fundamental technology in decades, which is already revolutionizing the fields of computer science and cancer research. Building on that technology, the company developed Scroll, a breakthrough new language that leaves all previous technologies used by newspapers in the dust.
  https://en.wikipedia.org/wiki/List_of_the_oldest_newspapers 500 year old newspaper industry
  https://arxiv.org/abs/1703.01192 the most important fundamental technology
  https://scroll.pub/ Scroll
 
 # Raising the bar
-* These partnerships will raise the bar across the newspaper industry and deliver significantly more useful and more trustworthy information to communities around the world, not only improving discourse but increasing the efficicency of economic activity.
+These partnerships will raise the bar across the newspaper industry and deliver significantly more useful and more trustworthy information to communities around the world, not only improving discourse but increasing the efficicency of economic activity.
 
 # Pricing
-* Pricing is based on a simple model using the population and per capita data on the region of interest. Minimum commitment is 1 year. For a price quote, email franchise@publicdomaincompany.com.
+Pricing is based on a simple model using the population and per capita data on the region of interest. Minimum commitment is 1 year. For a price quote, email franchise@publicdomaincompany.com.
 
-import footer.scroll
+footer.scroll

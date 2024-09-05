@@ -1,18 +1,19 @@
 date 09-11-2022
-groups index
 openGraphImage https://dfon51l7zffjj.cloudfront.net/uploads/company/header_media_photo/80114/standard_cropped_screenshot.jpg
-
-import header.scroll
 title #Rejected
+
+groups index
+
+header.scroll
 
 thinColumns 1
 
-youTube https://www.youtube.com/embed/yogvgmK2L4g
+youtube https://www.youtube.com/embed/yogvgmK2L4g
 
-* One of our favorite people once said: _never, ever give up_
+One of our favorite people once said: _never, ever give up_
 
 # #WeFunder
  https://wefunder.com/thepublicdomainpublishingcompany #WeFunder
 
 keyboardNav
-import footer.scroll
+footer.scroll
