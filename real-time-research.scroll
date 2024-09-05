@@ -4,7 +4,7 @@ date 09-08-2022
 openGraphImage https://pldb.io/posts/images/john-snow.jpeg
 title Real Time Research
 
-groups index
+tags index
 
 header.scroll
 
@@ -33,5 +33,5 @@ Email liability@pldb.io for a call sign and join the beta today.
 
 * #BuildPublicDomain
 
-keyboardNav
+
 footer.scroll

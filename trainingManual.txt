@@ -1,4 +1,5 @@
-groups index
+Pub Training Manual
+===================
 
 December 18, 2022
 

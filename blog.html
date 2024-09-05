@@ -387,8 +387,102 @@ a.abstractTextLinkParser:hover {
 
 </style>
 <style>.abstractIconButtonParser {position:absolute;top:0.25rem; }.abstractIconButtonParser svg {fill: rgba(204,204,204,.8);width:1.875rem;height:1.875rem; padding: 0 7px;} .abstractIconButtonParser:hover svg{fill: #333;}</style><a href="index.html" class="doNotPrint abstractIconButtonParser" style="left:2rem;"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12.7166 3.79541C12.2835 3.49716 11.7165 3.49716 11.2834 3.79541L4.14336 8.7121C3.81027 8.94146 3.60747 9.31108 3.59247 9.70797C3.54064 11.0799 3.4857 13.4824 3.63658 15.1877C3.7504 16.4742 4.05336 18.1747 4.29944 19.4256C4.41371 20.0066 4.91937 20.4284 5.52037 20.4284H8.84433C8.98594 20.4284 9.10074 20.3111 9.10074 20.1665V15.9754C9.10074 14.9627 9.90433 14.1417 10.8956 14.1417H13.4091C14.4004 14.1417 15.204 14.9627 15.204 15.9754V20.1665C15.204 20.3111 15.3188 20.4284 15.4604 20.4284H18.4796C19.0806 20.4284 19.5863 20.0066 19.7006 19.4256C19.9466 18.1747 20.2496 16.4742 20.3634 15.1877C20.5143 13.4824 20.4594 11.0799 20.4075 9.70797C20.3925 9.31108 20.1897 8.94146 19.8566 8.7121L12.7166 3.79541ZM10.4235 2.49217C11.3764 1.83602 12.6236 1.83602 13.5765 2.49217L20.7165 7.40886C21.4457 7.91098 21.9104 8.73651 21.9448 9.64736C21.9966 11.0178 22.0564 13.5119 21.8956 15.3292C21.7738 16.7067 21.4561 18.4786 21.2089 19.7353C20.9461 21.0711 19.7924 22.0001 18.4796 22.0001H15.4604C14.4691 22.0001 13.6655 21.1791 13.6655 20.1665V15.9754C13.6655 15.8307 13.5507 15.7134 13.4091 15.7134H10.8956C10.754 15.7134 10.6392 15.8307 10.6392 15.9754V20.1665C10.6392 21.1791 9.83561 22.0001 8.84433 22.0001H5.52037C4.20761 22.0001 3.05389 21.0711 2.79113 19.7353C2.54392 18.4786 2.22624 16.7067 2.10437 15.3292C1.94358 13.5119 2.00338 11.0178 2.05515 9.64736C2.08957 8.73652 2.55427 7.91098 3.28346 7.40886L10.4235 2.49217Z"/></svg></a>
+<style>a.keyboardNav {display:block;position:absolute;top:0.25rem; color: rgba(204,204,204,.8); font-size: 1.875rem; line-height: 1.7rem;}a.keyboardNav:hover{color: #333;text-decoration: none;}</style><a class="keyboardNav doNotPrint" style="left:.5rem;" href="deck.html">&lt;</a><a class="keyboardNav doNotPrint" style="right:.5rem;" href="deck.html">&gt;</a>
+<div class="scrollKeyboardNav" style="display:none;"><a href="deck.html">deck.html</a> · blog.html · <a href="404.html">404.html</a><script>document.addEventListener('keydown', function(event) {
+  if (document.activeElement !== document.body) return
+  if (event.altKey || event.ctrlKey || event.metaKey || event.shiftKey) return // dont interfere with keyboard back button shortcut
+  const getLinks = () => document.getElementsByClassName("scrollKeyboardNav")[0].getElementsByTagName("a")
+  if (event.key === "ArrowLeft")
+    getLinks()[0].click()
+  else if (event.key === "ArrowRight")
+    getLinks()[1].click()
+ });</script></div>
 <style>.abstractIconButtonParser {position:absolute;top:0.25rem; }.abstractIconButtonParser svg {fill: rgba(204,204,204,.8);width:1.875rem;height:1.875rem; padding: 0 7px;} .abstractIconButtonParser:hover svg{fill: #333;}</style><a href="https://github.com/breck7/publicdomaincompany.com/blob/main/blog.scroll" class="doNotPrint abstractIconButtonParser" style="right:2rem;"><svg xmlns="http://www.w3.org/2000/svg" width="92pt" height="92pt" viewBox="0 0 92 92"><path d="M90.156 41.965 50.036 1.848a5.913 5.913 0 0 0-8.368 0l-8.332 8.332 10.566 10.566a7.03 7.03 0 0 1 7.23 1.684 7.043 7.043 0 0 1 1.673 7.277l10.183 10.184a7.026 7.026 0 0 1 7.278 1.672 7.04 7.04 0 0 1 0 9.957 7.045 7.045 0 0 1-9.961 0 7.038 7.038 0 0 1-1.532-7.66l-9.5-9.497V59.36a7.04 7.04 0 0 1 1.86 11.29 7.04 7.04 0 0 1-9.957 0 7.04 7.04 0 0 1 0-9.958 7.034 7.034 0 0 1 2.308-1.539V33.926a7.001 7.001 0 0 1-2.308-1.535 7.049 7.049 0 0 1-1.516-7.7L29.242 14.273 1.734 41.777a5.918 5.918 0 0 0 0 8.371L41.855 90.27a5.92 5.92 0 0 0 8.368 0l39.933-39.934a5.925 5.925 0 0 0 0-8.371"/></svg></a>
-<div class="scrollColumns" style="column-width:35ch;"></div>
+<div class="scrollSection"><h1 class="scrollTitle"><a href="blog.html">The Public Domain Publishing Inc. Blog</a></h1>
+</div>
+<div class="scrollColumns" style="column-width:35ch;"><div class="scrollSnippetContainer"><div class="scrollSection"><h1 class="scrollTitle"><a href="start-a-newspaper-business.html">Start a newspaper francise</a></h1>
+</div>
+<div class="scrollSection"><h1 class="scrollParagraph">Public Domain Publishing begins selling regional franchises.</h1>
+</div>
+<div class="scrollSection"><h2 class="scrollParagraph">Fix the discourse in your local community and accelerate the economy by launching a public domain, print-at-home daily newspaper</h2>
+</div>
+<p class="scrollParagraph"><span class="scrollDateline">January 18, 2023 — </span>Earlier this month <a href="https://publicdomaincompany.com/">Public Domain Publishing</a> launched two new local newspapers: <a href="https://longbeach.pub/">The Long Beach Pub</a> and <a href="http://hawaii.publicdomaincompany.com/">The Hawai'i Pub</a>.  The papers use a breakthrough technology stack unlike any the world has seen before. Even in their early iterations, the response to the papers has been overwhelming. Already people are launching newspapers using the same software across the world.</p>
+<p class="scrollParagraph">In an effort to more effectively bring this breakthrough technology and business model to communities around the world, Public Domain Publishing Inc. is launching a new newspaper franchise program. Entrepreneurs interested in starting their own newspaper business can email <a href="mailto:franchise@publicdomaincompany.com">franchise@publicdomaincompany.com</a> for a price sheet.</p><a class="scrollContinueReadingLink" href="start-a-newspaper-business.html">Continue reading...</a></div>
+
+<div class="scrollSnippetContainer"><div class="scrollSection"><h1 class="scrollTitle"><a href="ourMission.html">Our Mission</a></h1>
+</div>
+<p class="scrollParagraph"><span class="scrollDateline">December 18, 2022 — </span>A company is just a name, some bank accounts and legal documents, maybe a ticker symbol, and some rows in some databases. None of those things are important to me.</p><a class="scrollContinueReadingLink" href="ourMission.html">Continue reading...</a></div>
+
+<div class="scrollSnippetContainer"><div class="scrollSection"><h1 class="scrollTitle"><a href="trainingManual.html">Pub Training Manual</a></h1>
+</div>
+<p class="scrollParagraph"><span class="scrollDateline">December 18, 2022 — </span>Aloha! Welcome to the team! We don't have titles here. We have a <a href="ourMission.html">mission</a>, customers, and jobs to be done.</p>
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/b7cc2f7ca02649a5af00ebdd4f941ef2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div><a class="scrollContinueReadingLink" href="trainingManual.html">Continue reading...</a></div>
+
+<div class="scrollSnippetContainer"><div class="scrollSection"><h1 class="scrollTitle"><a href="code-download.html">Public Domain Publishing Inc. suffers complete code and data breach</a></h1>
+</div>
+<div class="scrollSection"><h2 class="scrollParagraph">All source code and data from the startup downloaded by hackers with a one line command</h2>
+</div><a class="scrollContinueReadingLink" href="code-download.html">Continue reading...</a></div>
+
+<div class="scrollSnippetContainer"><div class="scrollSection"><h1 class="scrollTitle"><a href="wefunder.html">#Rejected</a></h1>
+</div>
+<figure class="scrollCaptionedFigure" style=""><div class="scrollYouTubeHolder"><iframe class="scrollYouTubeEmbed" src="https://www.youtube.com/embed/yogvgmK2L4g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></figure>
+<p class="scrollParagraph">One of our favorite people once said: <em>never, ever give up</em></p>
+<div class="scrollSection"><h1 class="scrollParagraph"><a href="https://wefunder.com/thepublicdomainpublishingcompany">#WeFunder</a></h1>
+</div>
+<center><p class="scrollParagraph"></p>
+</center><a class="abstractTextLinkParser" href="https://github.com/breck7/publicdomaincompany.com/blob/main/wefunder.scroll">View source</a>
+</div>
+
+<div class="scrollSnippetContainer"><div class="scrollSection"><h1 class="scrollTitle"><a href="real-time-research.html">Real Time Research</a></h1>
+</div>
+<p class="scrollParagraph"><span class="scrollDateline">September 8, 2022 — </span>John Snow is dead.</p>
+<p class="scrollParagraph">But his ideas live on.</p>
+<p class="scrollParagraph">And his relentless spirit flows strong at <a href="https://publicdomaincompany.com/">Public Domain Publishing</a>.</p>
+<figure class="scrollCaptionedFigure" style="width:990px; margin: auto;"><a href="images/john-snow.jpeg" target="_blank"  ><img src="images/john-snow.jpeg" width="990" height="743" loading="lazy"></a></figure>
+<p class="scrollParagraph">Announcing Real-Time Research</p>
+<p class="scrollParagraph">Research is all fun and games for us researchers. But for our neighbors, friends, and families, sometimes it's a matter of life and death. And every day counts.</p>
+<p class="scrollParagraph">That's why today we announce the launch of <em>real-time research</em>.</p>
+<p class="scrollParagraph"><a href="https://build.pldb.io">build.pldb.io</a></p>
+<p class="scrollParagraph">Email <a href="mailto:liability@pldb.io">liability@pldb.io</a> for a call sign and join the beta today.</p>
+<p class="scrollParagraph">#BuildPublicDomain</p>
+<center><p class="scrollParagraph"></p>
+</center><a class="abstractTextLinkParser" href="https://github.com/breck7/publicdomaincompany.com/blob/main/real-time-research.scroll">View source</a>
+</div>
+
+<div class="scrollSnippetContainer"><div class="scrollSection"><h1 class="scrollTitle"><a href="buildPublicDomain.html">#BuildPublicDomain</a></h1>
+</div>
+<div style="text-align: center;" class="scrollDateline">September 4, 2022</div>
+<div class="scrollSection"><h2 class="scrollParagraph">It all started with <a href="https://archive.org/details/1983-30sec">1984</a>.</h2>
+</div>
+<figure class="scrollCaptionedFigure" style=""><div class="scrollYouTubeHolder"><iframe class="scrollYouTubeEmbed" src="https://www.youtube.com/embed/VtvjbmoDx-I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></figure><a class="scrollContinueReadingLink" href="buildPublicDomain.html">Continue reading...</a></div>
+
+<div class="scrollSnippetContainer"><div class="scrollSection"><h1 class="scrollTitle"><a href="motivationalPosters.html">Motivational posters</a></h1>
+</div>
+<p class="scrollParagraph"><span class="scrollDateline">March 6, 2021 — </span>Motivational posters are the key to our success.</p>
+<blockquote class="scrollQuote">If all you have is a hammer, you're already ahead of
+1 million years of humanity.</blockquote>
+<blockquote class="scrollQuote">Experience is what you get when everything goes to shit.</blockquote>
+<blockquote class="scrollQuote">If you ain't having fun building it, your users ain't gonna have fun using it.</blockquote>
+<blockquote class="scrollQuote">We're not paying you the lowest wage possible to work your
+life away.</blockquote>
+<blockquote class="scrollQuote">You can't spell culture without "cult".</blockquote>
+<blockquote class="scrollQuote">Nature loves to distribute things equally. Just compare the
+volumne of the sun to Pluto.</blockquote>
+<blockquote class="scrollQuote">If you've practiced something for 10,000 hours, you still
+gotta watch out for the freak who is at 100,000 hours.</blockquote>
+<blockquote class="scrollQuote">Don't wait for our imminent bankruptcy to get paid.</blockquote>
+<blockquote class="scrollQuote">There is nothing more unimportant to us than our investors.</blockquote>
+<blockquote class="scrollQuote">Plan like you might live forever
+Pivot like someone might shoot you tomorrow</blockquote>
+<blockquote class="scrollQuote">If you aren't the freak in the world most interested in this topic,
+then what are you doing here?</blockquote>
+<blockquote class="scrollQuote">Licenses are for losers.</blockquote>
+<blockquote class="scrollQuote">Checklists are a great way for getting a lot of unimportant things done.</blockquote>
+<blockquote class="scrollQuote">"Creators" are responsible for creating great content like I'm responsible
+for building Mauna Kea for breathing on it.</blockquote>
+<center><p class="scrollParagraph"></p>
+</center><a class="abstractTextLinkParser" href="https://github.com/breck7/publicdomaincompany.com/blob/main/motivationalPosters.scroll">View source</a>
+</div></div>
 </div>
 <center><p class="scrollParagraph"></p>
 <style>.abstractIconButtonParser {position:absolute;top:0.25rem; }.abstractIconButtonParser svg {fill: rgba(204,204,204,.8);width:1.875rem;height:1.875rem; padding: 0 7px;} .abstractIconButtonParser:hover svg{fill: #333;}</style><a href="https://github.com/breck7/publicdomaincompany.com/blob/main/blog.scroll" class="doNotPrint abstractIconButtonParser" style="position:relative;"><svg xmlns="http://www.w3.org/2000/svg" width="92pt" height="92pt" viewBox="0 0 92 92"><path d="M90.156 41.965 50.036 1.848a5.913 5.913 0 0 0-8.368 0l-8.332 8.332 10.566 10.566a7.03 7.03 0 0 1 7.23 1.684 7.043 7.043 0 0 1 1.673 7.277l10.183 10.184a7.026 7.026 0 0 1 7.278 1.672 7.04 7.04 0 0 1 0 9.957 7.045 7.045 0 0 1-9.961 0 7.038 7.038 0 0 1-1.532-7.66l-9.5-9.497V59.36a7.04 7.04 0 0 1 1.86 11.29 7.04 7.04 0 0 1-9.957 0 7.04 7.04 0 0 1 0-9.958 7.034 7.034 0 0 1 2.308-1.539V33.926a7.001 7.001 0 0 1-2.308-1.535 7.049 7.049 0 0 1-1.516-7.7L29.242 14.273 1.734 41.777a5.918 5.918 0 0 0 0 8.371L41.855 90.27a5.92 5.92 0 0 0 8.368 0l39.933-39.934a5.925 5.925 0 0 0 0-8.371"/></svg></a>

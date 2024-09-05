@@ -1,4 +1,5 @@
-groups index
+Start a newspaper francise
+==========================
 
 Public Domain Publishing begins selling regional franchises.
 ============================================================

@@ -4,10 +4,10 @@ date 12-18-2022
 openGraphImage trainingManual.jpg
 title Pub Training Manual
 
-groups index
+tags index
 
 header.scroll
-keyboardNav
+
 
 thinColumns 4
 

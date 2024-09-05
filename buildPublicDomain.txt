@@ -1,18 +1,20 @@
-author https://breckyunits.com Breck Yunits
-groups index
+#BuildPublicDomain
+==================
 
 September 4, 2022
 
 It all started with 1984.
  https://archive.org/details/1983-30sec 1984
+======================================================================
+
+*
 
 Tech used to have a message that sent a chill up your spine.
+============================================================
 
-It's been too long since we had one.
+*
 
-Today is the dawn of a new message:
-
-#BuildPublicDomain
-==================
+It's been too long since we had one. Time to #BuildPublicDomain
+===============================================================
 
 Built with Scroll v130.1.1
