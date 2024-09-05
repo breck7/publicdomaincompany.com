@@ -2,7 +2,7 @@ date 11-11-2022
 openGraphImage hacker.jpg
 title Public Domain Publishing Inc. suffers complete code and data breach
 
-groups index
+tags index
 
 header.scroll
 
@@ -28,5 +28,5 @@ hacker.jpg
 The company is currently investigating reports that the hackers were complaining about long download times. Updates will be posted here.
  https://github.com/breck7/pldb/issues/189 long download times.
 
-keyboardNav
+
 footer.scroll

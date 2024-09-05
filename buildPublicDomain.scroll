@@ -2,30 +2,33 @@ date 09-04-2022
 openGraphImage https://pldb.io/posts/images/buildPublicDomain.png
 title #BuildPublicDomain
 
-author https://breckyunits.com Breck Yunits
-groups index
+authors Breck Yunits
+ https://breckyunits.com
+tags index
 
 header.scroll
 
-thinColumns 1
+printDate
 
-It all started with 1984.
- dateline
+mediumColumns 1
+
+## It all started with 1984.
  https://archive.org/details/1983-30sec 1984
 
 youtube https://www.youtube.com/embed/VtvjbmoDx-I
 
-Tech used to have a message that sent a chill up your spine.
+***
+
+## Tech used to have a message that sent a chill up your spine.
 
 youtube https://www.youtube.com/embed/-z4NS2zdrZc
 
-It's been too long since we had one.
+***
 
-Today is the dawn of a new message:
 
-# #BuildPublicDomain
+
+### It's been too long since we had one. Time to #BuildPublicDomain
 
 youtube https://www.youtube.com/embed/CYPYZnVQoLg
 
-keyboardNav
 footer.scroll

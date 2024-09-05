@@ -3,11 +3,11 @@ authors Breck Yunits
 date 12-18-2022
 title Our Mission
 
-groups index
+tags index
 
 header.scroll
 leftRightButtons
-keyboardNav
+
 
 thinColumns 2
 
