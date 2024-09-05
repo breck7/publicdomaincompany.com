@@ -8,8 +8,7 @@ tags index
 header.scroll
 leftRightButtons
 
-
-thinColumns 2
+mediumColumns 1
 
 A company is just a name, some bank accounts and legal documents, maybe a ticker symbol, and some rows in some databases. None of those things are important to me.
  dateline
