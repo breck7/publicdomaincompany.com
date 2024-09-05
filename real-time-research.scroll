@@ -1,35 +1,36 @@
-author https://breckyunits.com Breck Yunits
+authors Breck Yunits
+  https://breckyunits.com
 date 09-08-2022
 groups index
 openGraphImage https://pldb.io/posts/images/john-snow.jpeg
 
-import header.scroll
+header.scroll
 title Real Time Research
 
 thinColumns 1
 
-* John Snow is dead.
+John Snow is dead.
  dateline
 
-* But his ideas live on.
+But his ideas live on.
 
-* And his relentless spirit flows strong at Public Domain Publishing.
+And his relentless spirit flows strong at Public Domain Publishing.
  https://publicdomaincompany.com/ Public Domain Publishing
 
-image images/john-snow.jpeg
+images/john-snow.jpeg
 
-# Announcing Real-Time Research
+Announcing Real-Time Research
 
-* Research is all fun and games for us researchers. But for our neighbors, friends, and families, sometimes it's a matter of life and death. And every day counts.
+Research is all fun and games for us researchers. But for our neighbors, friends, and families, sometimes it's a matter of life and death. And every day counts.
 
-* That's why today we announce the launch of _real-time research_.
+That's why today we announce the launch of _real-time research_.
 
-* build.pldb.io
+build.pldb.io
  https://build.pldb.io
 
-* Email liability@pldb.io for a call sign and join the beta today.
+Email liability@pldb.io for a call sign and join the beta today.
 
 * #BuildPublicDomain
 
 keyboardNav
-import footer.scroll
+footer.scroll

@@ -1,5 +1,8 @@
 importOnly
 
 endColumns
-gazetteFooter
-writeText
+center
+viewSourceButton
+scrollVersionLink
+buildTxt
+buildHtml

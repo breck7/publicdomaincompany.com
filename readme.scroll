@@ -1,12 +1,12 @@
 description Our corporate homepage
 permalink index.html
 
-import header.scroll
+header.scroll
 title Public Domain Publishing Inc.
 
 thinColumns 4
 
-image logoV1.png
+logoV1.png
 
 code
                                     /-  --------
@@ -24,41 +24,34 @@ code
    |   -            \
                      \
                       -
-* 40,000 years ago somebody drew a bull in a cave and it's still visible today (the image above is a reproduction). We too want to make publications that last.
+40,000 years ago somebody drew a bull in a cave and it's still visible today (the image above is a reproduction). We too want to make publications that last.
 
 # Do we have a blog?
-* Yes.
+Yes.
  link blog.html Yes
 
 # What do we make?
-* Our primary business is making public domain computable encyclopedias. Our first two are PLDB and CancerDB.
+Our primary business is making public domain computable encyclopedias. Our first two are PLDB and CancerDB.
  https://pldb.io/ PLDB
  https://cancerdb.com/ CancerDB
 
-* PLDB helps programming language designers build the next great programming language.
-* CancerDB helps cancer researchers build the next great cure.
-* These projects are powered by our language called Scroll.
+PLDB helps programming language designers build the next great programming language.
+CancerDB helps cancer researchers build the next great cure.
+These projects are powered by our language called Scroll.
  https://scroll.pub Scroll
 
 ? What is our mission?
-* Every child with their own copy of humanity's best information.
+Every child with their own copy of humanity's best information.
 
 ? How do we make money?
-* Buy a t-shirt, hoodie or onesie (for the little ones)!
+Buy a t-shirt, hoodie or onesie (for the little ones)!
  https://cottonbureau.com/p/DH38R3
-image onesie.png
-
-## Side projects
-* We have some fun side projects including a data visualization studio called Ohayo, a music label called Music of a People, and the local print-at-home monthly newspapers The Long Beach Pub and The Hawai'i Pub.
- https://v20.ohayo.computer/ Ohayo
- https://musicofapeople.publicdomaincompany.com/ Music of a People
- https://longbeach.pub/ The Long Beach Pub
- http://hawaii.publicdomaincompany.com/ The Hawai'i Pub
+onesie.png
 
 # Legal Mumbo Jumbo
-* The official corporate name is Public Domain Publishing, Inc. Or if you are buying a vanity license plate `PUBS`.
+The official corporate name is Public Domain Publishing, Inc. Or if you are buying a vanity license plate `PUBS`.
 
-* Our office addresses are:
+Our office addresses are:
 
 ## Delaware office
 code
@@ -80,10 +73,10 @@ code
  Eighth Floor
  Long Beach, CA 90831
 
-* Our phone number is 1-808-727-1111
+Our phone number is 1-808-727-1111
 
 # Mahalo
-* Thanks to the web design team at BerkshireHathaway for help with our corporate homepage design.
+Thanks to the web design team at BerkshireHathaway for help with our corporate homepage design.
  https://www.berkshirehathaway.com BerkshireHathaway
 
 ## #BuildPublicDomain
@@ -97,6 +90,6 @@ code
 - First product launch: days ago
  dayjs Math.floor(dayjs().diff(dayjs("2022-08-28"), "day", true))
 
-* OVERNIGHT SUCCESS.
+OVERNIGHT SUCCESS.
 
-import footer.scroll
+footer.scroll
