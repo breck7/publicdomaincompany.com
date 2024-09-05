@@ -1,7 +1,8 @@
+buildHtml
 permalink 404.html
+title Page not found
 
 header.scroll
-title Page not found
 thinColumns 1
 
 Sorry, the url you requested was not found.
@@ -14,4 +15,3 @@ If you think there's a bug on our site, please email feedback@publicdomaincompan
 center
 viewSourceButton
 scrollVersionLink
-buildHtml

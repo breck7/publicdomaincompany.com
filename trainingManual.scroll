@@ -1,13 +1,13 @@
 authors Breck Yunits
  https://breckyunits.com
 date 12-18-2022
-groups index
 openGraphImage trainingManual.jpg
+title Pub Training Manual
+
+groups index
 
 header.scroll
 keyboardNav
-
-title Pub Training Manual
 
 thinColumns 4
 
@@ -42,6 +42,5 @@ Here are the main things to be done. The more skills you learn the more work we 
 - Delivering original humor pieces to our web and social media accounts
 - Promoting our work to existing media outlets
 - Fighting censorship in all its locations and forms
-
 
 footer.scroll

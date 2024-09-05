@@ -1,11 +1,12 @@
 authors Breck Yunits
   https://breckyunits.com
 date 09-08-2022
-groups index
 openGraphImage https://pldb.io/posts/images/john-snow.jpeg
+title Real Time Research
+
+groups index
 
 header.scroll
-title Real Time Research
 
 thinColumns 1
 

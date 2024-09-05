@@ -1,10 +1,11 @@
-author https://breckyunits.com Breck Yunits
 date 09-04-2022
-groups index
 openGraphImage https://pldb.io/posts/images/buildPublicDomain.png
+title #BuildPublicDomain
+
+author https://breckyunits.com Breck Yunits
+groups index
 
 header.scroll
-title #BuildPublicDomain
 
 thinColumns 1
 

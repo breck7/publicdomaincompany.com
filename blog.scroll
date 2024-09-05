@@ -1,8 +1,8 @@
 description Our official company blog
+title The Public Domain Publishing Inc. Blog
 
 header.scroll
 
-title The Public Domain Publishing Inc. Blog
 printSnippets index
 
 footer.scroll

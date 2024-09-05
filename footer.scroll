@@ -1,8 +1,8 @@
 importOnly
+buildHtml
+buildTxt
 
 endColumns
 center
 viewSourceButton
 scrollVersionLink
-buildTxt
-buildHtml
