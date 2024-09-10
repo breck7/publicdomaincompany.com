@@ -1,0 +1,28 @@
+title Public Domain Publishing Inc.
+
+headerIncludes.scroll
+
+# Public Domain Publishing, Inc.
+ style font-weight: 100; font-size: 200%;
+
+center
+<div class="card"><a href="https://scroll.pub"><img src="scroll.gif" /></a></div>
+<div class="card"><a href="https://wws.scroll.pub"><img src="wws.gif" /></a></div>
+<div class="card"><a href="https://pldb.io"><img src="pldb.gif" /></a></div>
+
+
+css
+ .card {
+   width: 300px;
+   height: 300px;
+   border-radius: 15px;
+   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+   padding: 20px;
+   display: inline-block;
+ }
+ .card img {
+   width: 300px;
+   height: 300px;
+ }
+
+footer.scroll
