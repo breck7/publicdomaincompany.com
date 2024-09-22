@@ -13,6 +13,8 @@ center
 <div class="card"><a href="https://scroll.pub"><img src="scroll.gif" /></a></div>
 <div class="card"><a href="https://pldb.io"><img src="pldb.gif" /></a></div>
 
+center
+<div class="card"><a href="https://news.pub"><img src="news.gif" /></a></div>
 
 css
  .card {
