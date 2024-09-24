@@ -4,7 +4,7 @@ Executive Summary
 A Public Domain Company - Pre-Seed Round
 ========================================
 
-We make The Scroll, an offline-first successor to The Web.
+We make The Scroll, a successor to The Web that works offline.
 
 The Scroll is built on a radically simpler language stack that we invented, called PPS (Particles, Parsers, and Scroll), that makes it 10x easier and faster to create and share more intelligent information.
 
