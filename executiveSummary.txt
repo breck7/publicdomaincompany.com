@@ -1,0 +1,40 @@
+Executive Summary
+=================
+
+A Public Domain Company - Pre-Seed Round
+========================================
+
+We make The Scroll, an offline-first successor to The Web.
+
+The Scroll is built on a radically simpler language stack that we invented, called PPS (Particles, Parsers, and Scroll), that makes it 10x easier and faster to create and share more intelligent information.
+
+Via The Scroll, we will make a world where every child, no matter where they are born, will get their own copy of humanity's most intelligent information.
+
+Our business model is people buying "folder names" on The Scroll, the same as they buy domain names for the web. We charge $100 for a 10 year folder registration, and we currently have sold 6 names. Viewership to all our products is in the thousands a day, and increasing at approximately 10% week over week.
+
+We value craftsmanship, truth, courage, laughter, intelligence, science and love.
+
+We are deeply committed to our mission of liberating information, by not only building the world's best information products, but also by lobbying for legal changes to end copyrights and patents.
+
+Our founder is Breck Yunits (Our World in Data, University of Hawai'i Cancer Center, Microsoft, Mozilla, YCombinator, HP, Visa, PayPal, Duke, Boston College HS, Brockton public schools; angel investor in over 70 startups). Breck owns ~95% & the remaining ~5% is held by early advisors and essential teammates.
+
+We are raising $50,000 at a $934,000 pre-money ($984,000 post money) valuation.
+
+As someone with 20 years of experience in the software and angel investing world, I am confident that this has the potential to be one of the greatest angel investments of all time and I am excited to share this opportunity with you. I also personally guarantee that no investor will lose a penny on this deal.
+
+Thank you for your consideration.
+
+-Breck
+
+To invest:
+- WeFunder: https://wefunder.com/scroll
+- AngelList: https://stack.angellist.com/s/662ips54oe
+
+Our products:
+The World Wide Scroll https://wws.scroll.pub/
+Scroll https://scroll.pub/
+ScrollHub https://hub.scroll.pub/
+PLDB https://pldb.io/
+BuilderNews https://news.pub/
+
+Built with Scroll v133.3.0
