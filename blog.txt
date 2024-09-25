@@ -3,7 +3,7 @@ The Public Domain Publishing Inc. Blog
 
 Public Domain Publishing Inc. Readme
 ====================================
-09/24/2024
+09/25/2024
 https://publicdomaincompany.com/readme.html
 
 Start a newspaper francise
@@ -46,4 +46,4 @@ Motivational posters
 03/06/2021
 https://publicdomaincompany.com/motivationalPosters.html
 
-Built with Scroll v133.3.0
+Built with Scroll v133.6.0

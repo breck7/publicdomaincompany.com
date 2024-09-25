@@ -37,4 +37,4 @@ Marketing team
 - Promoting our work to existing media outlets
 - Fighting censorship in all its locations and forms
 
-Built with Scroll v133.3.0
+Built with Scroll v133.6.0
