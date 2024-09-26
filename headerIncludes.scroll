@@ -2,7 +2,7 @@ importOnly
 
 settings.scroll
 metaTags
-gazetteCss
+theme gazette
 homeButton
 leftRightButtons
 keyboardNav
