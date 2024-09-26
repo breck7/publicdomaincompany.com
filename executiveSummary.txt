@@ -4,14 +4,14 @@ A Public Domain Company
 Angel Round
 ===========
 
-We make The Scroll, a successor to The Web that works offline.
+We make The Scroll, a non-toxic successor to The Web that works offline.
  https://wws.scroll.pub/ The Scroll
 
-For consumers, The Scroll provides intelligent, beautiful, ad-free, trustworthy information orders of magnitude faster than the Web.
+For consumers, The Scroll provides a non-toxic, intelligent, trustworthy information orders of magnitude faster than the Web.
 
 For businesses, The Scroll eliminates unneeded complexity and streamlines their customer service, operations and marketing.
 
-The Scroll is made possible by breakthroughs in computer science that we invented, called PPS (Particles, Parsers, and Scroll).
+The Scroll is made possible by breakthroughs in mathematics and computer science that we invented, noteably PPS (Particles, Parsers, and Scroll) and the equations $E=T/A!$, $I=C/S$ and $P = {T^{C^R}}^I$.
  https://scroll.pub/blog/teddyTalk.html PPS
 
 Via The Scroll, we will make a world where every child, no matter where they are born, will get their own copy of humanity's most intelligent information.
