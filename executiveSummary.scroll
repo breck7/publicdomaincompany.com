@@ -14,8 +14,7 @@ css
  .aqua{color: rgb(133, 177, 180)}
  .red{color: rgb(196, 30, 58);}
 
-<div class="container">
-
+container
 
 # A Public Domain Company
 
@@ -63,6 +62,24 @@ You can invest via WeFunder or AngelList or just send a wire and I'll send you y
 
 center
 ****
+
+# Q & A
+
+Email any questions to breck7@gmail.com or text to 1-415-937-1984
+
+? Why is this better than the current web?
+
+- Works offline. No matter what happens in geopolitics or with AGI, you have your own copy of humanity's best information.
+- 10x faster. Files served from disk, not from online.
+- More intelligent. A new language from the ground up that replaces HTML with semantics built in.
+- 10x easier to build. 10x fewer works to right than other web languages.
+- Non-toxic. No ads, no copyright. Remix anything.
+
+? What is GTM?
+We already have a few smash hits (like PLDB) on the World Wide Scroll that get thousands of visitors a week, are very popular with influencers, and are growing at a healthy week over week rate.
+In addition, we are putting an enormous effort into one on one sales to bring great builders to The Scroll.
+
+***
 
 br 4
 # Traction
@@ -135,5 +152,5 @@ scroll.png
  https://hub.scroll.pub/
 scrollhub.png
 
-</div>
+
 
