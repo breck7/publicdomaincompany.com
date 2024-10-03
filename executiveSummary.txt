@@ -46,7 +46,6 @@ Email any questions to breck7@gmail.com or text to 1-415-937-1984
 
 Why is this better than the current web?
 ========================================
-
 - Works offline. No matter what happens in geopolitics or with AGI, you have your own copy of humanity's best information.
 - 10x faster. Files served from disk, not from online.
 - More intelligent. A new language from the ground up that replaces HTML with semantics built in.
@@ -57,6 +56,43 @@ What is GTM?
 ============
 We already have a few smash hits (like PLDB) on the World Wide Scroll that get thousands of visitors a week, are very popular with influencers, and are growing at a healthy week over week rate.
 In addition, we are putting an enormous effort into one on one sales to bring great builders to The Scroll.
+
+Why does the web need to work offline?
+======================================
+Same reasons why Solar Power and Starlink are going through the roof: off-grid, decentralization is better.
+
+A web that works offline is:
+- Resilient. No matter what happens in the world (hurricanes, storms, wars, etc) you have the information you need.
+- 10x faster for day to day uses (reading whole sites from disk instead of one page at a time over Internet)
+- Censorship resistant
+- More intelligent (this data is so clean and smart AIs can train off it locally on your own machine)
+
+It isn't totally clear to me how it works (but I'm not technical)?
+==================================================================
+To transfer data the web relies on HTTP (the "Hyper Text Transfer Protocol" created by Tim Berners-Lee in 1989). The Scroll uses git ("global information tracker" created by Linus Torvalds in 2005). Entire sites with their change history are downloaded using git under the hood.
+
+To display content the web relies on HTML (TBL, 1991), CSS (Hakon Lie, 1996), and Javascript (Brendan Eich, 1995). The Scroll compiles and supports all of those as well, but also uses a new language stack called PPS (Particles, Parsers, and Scroll), that we created. Our language is far more intelligent (~10x more coverage per bits), semantically typed, and yet is even easier to use than those older langs.
+
+Why the dramatic language in the memo? (eg "Via The Scroll, we will make a world where every child, no matter where they are born, will get their own copy of humanity's most intelligent information.").
+=========================================================================================================================================================================================================
+I grew up in Brockton, a poor, but wonderful, city in Massachusetts. The people of Brockton are some of the most honest, hard working, wonderful people in the world, but for some reason have unequal opportunities compared to surrounding towns. I took it upon myself to figure out the root cause and it eventually became clear to me that it was copyrights and patents, which suck funds and time from people in places like Brockton and divert to non-innovating lawyers and capital holders in places like Atherton and Madrona. There's nothing wrong with capitalism or making money, but copyrights and patents are the opposite of capitalism: they are anti-property rights, and are a dishonest way to earn a living.
+
+I've strived to become the greatest programmer in the world to not just build The Scroll, but to make an emphatic point that you don't need copyrights and patents to invent, and in fact using those things poisons your inventions and slows you down.
+
+I envision a world where every human has equal opportunity, and there are not information laws that go against the grain of nature that harm everyone to benefit the few.
+
+Money is fun, and I love a good stay at a luxury hotel, but what gets me out of bed in the morning is my love for the people around me growing up, and now that I'm a father my wish that all children get access to the same opportunities that my own daughters have.
+
+The round size stood out as very small ($50k). For a project like this, I'd imagine you'd need more than $50k, so why not try to raise $200-300k or more to get the company off the ground (at a higher valuation)?
+===================================================================================================================================================================================================================
+
+I've put ~$1M of my own money into this, and will put much more.
+
+As soon as this round closes, I intent to raise $500K at a $9.34M valuation.
+
+This round is about finding and rewarding intelligent and courageous angel investors who understand they are buying a vision in my mind that we are bringing into the world, not something that already exists.
+
+I want every round of capital I raise to be a complete no-brainer to the best investors.
 
 *
 
