@@ -8,7 +8,7 @@ metaTags
 css
  body {font-family: Jost, sans-serif; font-size: 20px; padding: 20px; font-weight: 200;}
  .container {margin: 0 auto; max-width: 800px;}
- a {text-decoration-color:transparent; font-weight: bold; color: black;}
+ a {text-decoration-color:transparent; font-weight: bold; color: rgb(29, 161, 242);;}
   a:hover {text-decoration-color:unset;}
  .blue{color: rgb(29, 161, 242);}
  .aqua{color: rgb(133, 177, 180)}
@@ -22,7 +22,6 @@ container
 
 We make The Scroll, a non-toxic, intelligent, trustworthy successor to The Web that works offline.
  https://wws.scroll.pub/ The Scroll
- class blue The Scroll
 
 For consumers, The Scroll provides all the benefits of the Web but an order of magnitude better and faster.
 
@@ -36,7 +35,13 @@ katex
 
 Via The Scroll, we will make a world where every child, no matter where they are born, will get their own copy of humanity's most intelligent information.
 
-Our customers buy "root names" on The Scroll, the same as they buy domain names for the web. We charge $100 for a 10 year root folder registration. Viewership to our products is in the thousands a day, and increasing at approximately 10% week over week.
+Our customers buy root names on The Scroll, the same as they buy domain names for the web. We charge $100 for a 10 year root folder registration. We are selling root names and the first customer folders launch shortly.
+ https://buy.stripe.com/cN2dUC82JaiNbaEfZn root names
+
+In addition to root names, we also will create additional significant value add products on top of The Scroll, such as The Scroll for Spaces.
+ https://wws.scroll.pub/spaces.html The Scroll for Spaces
+
+Viewership to our products is in the thousands a day, and increasing at approximately 10% week over week.
 
 We are deeply committed to our mission of liberating information, by not only building the world's best information products, but also by lobbying for legal changes to end copyrights and patents worldwide. We value craftsmanship, truth, courage, laughter, intelligence, science and love.
 
@@ -53,7 +58,7 @@ Thank you for believing in me, and together let's build a new world.
 
 -Breck
 
-You can invest via WeFunder or AngelList or just send a wire and I'll send you your docs.
+You can invest via WeFunder or AngelList or just send a wire or NEAR (publicdomaincompany.near) and I'll send you your docs.
  https://wefunder.com/scroll WeFunder
  class red WeFunder
  https://stack.angellist.com/s/662ips54oe AngelList
@@ -106,7 +111,7 @@ Money is fun, and I love a good stay at a luxury hotel, but what gets me out of 
 
 I've put ~$1M of my own money into this, and will put much more.
 
-As soon as this round closes, I intent to raise $500K at a $9.34M valuation.
+As soon as this round closes, I intent to raise $500K at a $9.34M valuation. Then I would not be suprised to do a $5M round a few months after that, and a $50M IPO in the following year. My goal is to ensure we have the capital we need to accomplish our mission and to do it with the help of as many capital partners (no matter whether they are in for $100 or $1M) as possible.
  inlineMarkupsOn none
 
 This round is about finding and rewarding intelligent and courageous angel investors who understand they are buying a vision in my mind that we are bringing into the world, not something that already exists.
