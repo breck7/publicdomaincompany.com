@@ -72,16 +72,35 @@ center
 
 Email any questions to breck7@gmail.com or text to 1-415-937-1984
 
+? Have you considered putting together a traditional deck?
+Yes. And we will, probably by the $500K round.
+
+? Since the product is really novel, it opens up a lot of questions, so a
+breakdown could be helpful. For example, what's the revenue model, GTM
+(including your paragraph below and additional GTM info), Key metrics
+(visitors, something else), storage requirements (if it can be all
+offline) and other questions
+
+? What's the revenue model?
+Currently the main source of revenue is selling Scroll names, which are similar to domain names, which we currently charge $100 for a 10 year registration. Currently margins are >90%, but we expect ~50% margins once we expand our sales and customer support efforts.
+
+We have other revenue experiments and are creating so much value for people that we have many additional revenue paths to test.
+
+? What is GTM?
+We already have a few hits (like PLDB) on the World Wide Scroll that get thousands of visitors a week, are very popular with influencers, and are growing at a healthy week over week rate.
+In addition, we are putting an enormous effort into one on one sales to bring great builders to The Scroll.
+We expect many breakout hits that will continue to draw not only new readers of The Scroll but new builders. The network effects are substantial.
+
+? What are the storage requirements?
+In 5 years our biggest power users may follow ~1,000 folders at 100MB each using 100GB on their disk, which currently fits on a $6 SD card.
+
 ? Why is this better than the current web?
-- Works offline. No matter what happens in geopolitics or with AGI, you have your own copy of humanity's best information.
+- Works offline. No matter where you are, what happens in geopolitics or with AGI, you have your own copy of humanity's best information.
 - 10x faster. Files served from disk, not from online.
 - More intelligent. A new language from the ground up that replaces HTML with semantics built in.
 - 10x easier to build. 10x fewer works to right than other web languages.
 - Non-toxic. No ads, no copyright. Remix anything.
-
-? What is GTM?
-We already have a few smash hits (like PLDB) on the World Wide Scroll that get thousands of visitors a week, are very popular with influencers, and are growing at a healthy week over week rate.
-In addition, we are putting an enormous effort into one on one sales to bring great builders to The Scroll.
+- More secure. Novel design patterns allow for >10x improvement in security while eliminating user experience hindrances.
 
 ? Why does the web need to work offline?
 Same reasons why Solar Power and Starlink are going through the roof: off-grid, decentralization is better.
