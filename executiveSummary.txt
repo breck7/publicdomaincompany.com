@@ -54,13 +54,6 @@ Have you considered putting together a traditional deck?
 ========================================================
 Yes. And we will, probably by the $500K round.
 
-Since the product is really novel, it opens up a lot of questions, so a
-=======================================================================
-breakdown could be helpful. For example, what's the revenue model, GTM
-(including your paragraph below and additional GTM info), Key metrics
-(visitors, something else), storage requirements (if it can be all
-offline) and other questions
-
 What's the revenue model?
 =========================
 Currently the main source of revenue is selling Scroll names, which are similar to domain names, which we currently charge $100 for a 10 year registration. Currently margins are >90%, but we expect ~50% margins once we expand our sales and customer support efforts.
