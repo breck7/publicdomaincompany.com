@@ -7,6 +7,9 @@ Angel Round
 We make The Scroll, a non-toxic, intelligent, trustworthy successor to The Web that works offline.
  https://wws.scroll.pub/ The Scroll
 
+How is it different than the web? Git instead of HTTP. Scroll instead of HTML. `root.scroll` instead of DNS.
+ https://scroll.pub Scroll
+
 For consumers, The Scroll provides all the benefits of the Web but an order of magnitude better and faster.
 
 For businesses, The Scroll eliminates unneeded complexity and streamlines their customer service, operations and marketing.
@@ -16,7 +19,9 @@ The Scroll is made possible by breakthroughs in computer science and mathematics
 
 Via The Scroll, we will make a world where every child, no matter where they are born, will get their own copy of humanity's most intelligent information.
 
-Our customers buy root names on The Scroll, the same as they buy domain names for the web. We charge $100 for a 10 year root folder registration. We are selling root names and the first customer folders launch shortly.
+Imagine a pristine copy of civilization's knowledge in your pocket. That is the world we are building. And it will be sooner than you think (by 2030).
+
+Our customers buy root names on The Scroll, the same as they buy domain names for the web. We charge $100 for a 10 year root folder registration. We are already selling root names and the first customer folders launch shortly.
  https://buy.stripe.com/cN2dUC82JaiNbaEfZn root names
 
 In addition to root names, we also will create additional significant value add products on top of The Scroll, such as The Scroll for Spaces.
