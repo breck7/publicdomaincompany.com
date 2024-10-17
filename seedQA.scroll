@@ -1,0 +1,155 @@
+title A Public Domain Company - Pre-Seed Round
+
+buildHtml
+buildTxt
+
+metaTags
+
+css
+ body {font-family: Jost, sans-serif; font-size: 20px; padding: 20px; font-weight: 200;}
+ .container {margin: 0 auto; max-width: 800px;}
+ a {text-decoration-color:transparent; font-weight: bold; color: rgb(29, 161, 242);;}
+  a:hover {text-decoration-color:unset;}
+ .blue{color: rgb(29, 161, 242);}
+ .aqua{color: rgb(133, 177, 180)}
+ .red{color: rgb(196, 30, 58);}
+
+container
+
+
+# Q & A
+
+? Have you considered putting together a traditional deck?
+Yes. And we will, probably by the $500K round.
+
+? What's the revenue model?
+Currently the main source of revenue is selling Scroll names, which are similar to domain names, which we currently charge $100 for a 10 year registration. Currently margins are >90%, but we expect ~50% margins once we expand our sales and customer support efforts.
+
+We have other revenue experiments and are creating so much value for people that we have many additional revenue paths to test.
+
+? What is GTM?
+We already have a few hits (like PLDB) on the World Wide Scroll that get thousands of visitors a week, are very popular with influencers, and are growing at a healthy week over week rate.
+In addition, we are putting an enormous effort into one on one sales to bring great builders to The Scroll.
+We expect many breakout hits that will continue to draw not only new readers of The Scroll but new builders. The network effects are substantial.
+
+? What are the storage requirements?
+In 5 years our biggest power users may follow ~1,000 folders at 100MB each using 100GB on their disk, which currently fits on a $6 SD card.
+
+? Why is this better than the current web?
+- Works offline. No matter where you are, what happens in geopolitics or with AGI, you have your own copy of humanity's best information.
+- 10x faster. Files served from disk, not from online.
+- More intelligent. A new language from the ground up that replaces HTML with semantics built in.
+- 10x easier to build. 10x fewer works to right than other web languages.
+- Non-toxic. No ads, no copyright. Remix anything.
+- More secure. Novel design patterns allow for >10x improvement in security while eliminating user experience hindrances.
+
+? Why does the web need to work offline?
+Same reasons why Solar Power and Starlink are going through the roof: off-grid, decentralization is better.
+
+A web that works offline is:
+- Resilient. No matter what happens in the world (hurricanes, storms, wars, etc) you have the information you need.
+- 10x faster for day to day uses (reading whole sites from disk instead of one page at a time over Internet)
+- Censorship resistant
+- More intelligent (this data is so clean and smart AIs can train off it locally on your own machine)
+
+? It isn't totally clear to me how it works (but I'm not technical)?
+To transfer data the web relies on HTTP (the "Hyper Text Transfer Protocol" created by Tim Berners-Lee in 1989). The Scroll uses git ("global information tracker" created by Linus Torvalds in 2005). Entire sites with their change history are downloaded using git under the hood.
+
+To display content the web relies on HTML (TBL, 1991), CSS (Hakon Lie, 1996), and Javascript (Brendan Eich, 1995). The Scroll compiles and supports all of those as well, but also uses a new language stack called PPS (Particles, Parsers, and Scroll), that we created. Our language is far more intelligent (~10x more coverage per bits), semantically typed, and yet is even easier to use than those older langs.
+
+? Why the dramatic language in the memo? (eg "Via The Scroll, we will make a world where every child, no matter where they are born, will get their own copy of humanity's most intelligent information.").
+I grew up in Brockton, a poor, but wonderful, city in Massachusetts. The people of Brockton are some of the most honest, hard working, wonderful people in the world, but for some reason have unequal opportunities compared to surrounding towns. I took it upon myself to figure out the root cause and it eventually became clear to me that it was copyrights and patents, which suck funds and time from people in places like Brockton and divert to non-innovating lawyers and capital holders in places like Atherton and Madrona. There's nothing wrong with capitalism or making money, but copyrights and patents are the opposite of capitalism: they are anti-property rights, and are a dishonest way to earn a living.
+
+I've strived to become the greatest programmer in the world to not just build The Scroll, but to make an emphatic point that you don't need copyrights and patents to invent, and in fact using those things poisons your inventions and slows you down.
+
+I envision a world where every human has equal opportunity, and there are not information laws that go against the grain of nature that harm everyone to benefit the few.
+
+Money is fun, and I love a good stay at a luxury hotel, but what gets me out of bed in the morning is my love for the people around me growing up, and now that I'm a father my wish that all children get access to the same opportunities that my own daughters have.
+
+? The round size stood out as very small ($50k). For a project like this, I'd imagine you'd need more than $50k, so why not try to raise $200-300k or more to get the company off the ground (at a higher valuation)?
+ inlineMarkupsOn none
+
+I've put ~$1M of my own money into this, and will put much more.
+
+As soon as this round closes, I intent to raise $500K at a $9.34M valuation. Then I would not be suprised to do a $5M round a few months after that, and a $50M IPO in the following year. My goal is to ensure we have the capital we need to accomplish our mission and to do it with the help of as many capital partners (no matter whether they are in for $100 or $1M) as possible.
+ inlineMarkupsOn none
+
+This round is about finding and rewarding intelligent and courageous angel investors who understand they are buying a vision in my mind that we are bringing into the world, not something that already exists.
+
+I want every round of capital I raise to be a complete no-brainer to the best investors.
+
+***
+
+br 4
+# Traction
+ center
+
+mediumColumns 1
+
+css
+ .scrollColumns {
+   column-count: auto;
+   column-fill: balance;
+   column-width: 35ch;
+   column-gap: 1.5rem;
+   padding-left: 1.25rem;
+   padding-right: 1.25rem;
+   margin: auto;
+ }
+ .scrollCaptionedFigure {
+   display: block;
+   break-inside: avoid;
+   max-width: 100%;
+   text-align: center;
+ }
+ .scrollCaptionedFigure img {
+   max-width: 100%;
+   height: auto;
+   margin-top: .1875rem;
+ }
+ .scrollCaptionedFigure figcaption {
+   font-family: "SF Pro", "Helvetica Neue", "Segoe UI", "Arial";
+   font-size: .8rem;
+ }
+ .scrollCaptionedFigure figcaption .scrollParagraph {
+   margin-top: 0;
+ }
+
+### BuilderNews
+ https://news.pub/
+
+Customer Testimonials (all from past 3 days)
+
+- Thank you very much for your review. I didn't know about news.pub. It's a great place!
+ https://news.ycombinator.com/item?id=41643663
+- Thank you for your support!
+ https://news.ycombinator.com/item?id=41642870
+- Thanks for the kind words...Thanks for the video!
+ https://news.ycombinator.com/item?id=41643467
+- Hi Breck! Thank you so much for the review, very helpful!
+ https://news.ycombinator.com/item?id=41630090
+- Smart plug! And cool idea, going to watch some over coffee tomorrow :). Morning live stream of trying products would be awesome
+ https://news.ycombinator.com/item?id=41631519
+- Thank you! I really appreciate the video of you going through it.
+ https://news.ycombinator.com/item?id=41622011
+- Oh wow, was not expecting this level of feedback -- thank you for the video!
+ https://news.ycombinator.com/item?id=41621449
+- Thank you for the feedback!
+ https://news.ycombinator.com/item?id=41621115
+- Thanks for your sign up, it made me very happy! And thank you for taking the time to make a video :D
+ https://news.ycombinator.com/item?id=41615805
+
+### PLDB
+ https://pldb.io/
+pldb.png
+
+### Scroll
+ https://scroll.pub/
+scroll.png
+
+### ScrollHub
+ https://hub.scroll.pub/
+scrollhub.png
+
+
+
